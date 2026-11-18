@@ -1,0 +1,80 @@
+
+================================================================================================================================================================================================================
+================================================================================================================================================================================================================
+ ____                 _             _   _           _          _ ____          __  __                         ____  ____  
+|  _ \ ___  __ _  ___| |_          | \ | | ___   __| | ___    | / ___|        |  \/  | ___  _ __   __ _  ___ |  _ \| __ ) 
+| |_) / _ \/ _` |/ __| __|  _____  |  \| |/ _ \ / _` |/ _ \_  | \___ \   _____| |\/| |/ _ \| '_ \ / _` |/ _ \| | | |  _ \ 
+|  _ <  __/ (_| | (__| |_  |_____| | |\  | (_) | (_| |  __/ |_| |___) | |_____| |  | | (_) | | | | (_| | (_) | |_| | |_) |
+|_| \_\___|\__,_|\___|\__|         |_| \_|\___/ \__,_|\___|\___/|____/        |_|  |_|\___/|_| |_|\__, |\___/|____/|____/ 
+	
+	Examen 1º EVAL.Programacion Web Ent.Cliente:  React + NodeJS + Express + Mongodb
+
+	Duración: 3h
+	
+	==========================================================================
+	== OJO!!! ⛔⛔ debe compilar sin errores para corregirse		==
+	== 	se podrá pedir la explicación detallada de forma individual	==
+	==	del código que se ha presentado					==
+	==========================================================================
+	
+ para usar la app:
+	- hay un usuario de pruebas para el LOGIN en la coleccion "clientes" ---> email: pmr.aiki@gmail.com / password: Hola1234!
+
+	- para usar el servicio de GeoApi debéis crearos una BD en mongodb llamada GeoApi y dentro de ella dos colecciones: "Provincias" y "Poblaciones" e importar los ficheros GeoApi.Provincias.json 
+y GeoApi.Poblaciones.json, sino el microservicio no se ejecutara.
+
+	- ⚠️ los tres proyectos se deben lanzar (1º los servicios de nodejs, y después el de react y todos se ejecutan con "npm run dev")
+		- el de geoApi_nodejs_microservice -----------> se ejecuta con:  ✅ npm run dev
+		- el de PcCOMPONENTES__nodejs ----------------> se ejecuta con:  ✅ npm run dev
+		- el de PcCOMPONENTES__react -----------------> se ejecuta con:  ✅ npm run dev
+
+================================================================================================================================================================================================================
+ __  ____     ______ 
+|  \/  \ \   / / ___|	👮‍♂️👮‍♂️ todos los proyectos siguen la arquitectura MVC (tanto el de nodejs como el de react)
+| |\/| |\ \ / / |       el codigo que generes debe seguir esta implementacion
+| |  | | \ V /| |___ 
+|_|  |_|  \_/  \____|	
+
+================================================================================================================================================================================================================
+
+		
+
+
+DEL LADO DEL CLIENTE REACT: una vez que inicias sesión en el portal debes:
+
+======================================================================================================================================================================
+1º ( 7 ptos) - MI CUENTA (panel cliente) ===>  MIS DIRECCIONES
+======================================================================================================================================================================
+
+	- MOSTRAR DIRECCIONES DE ENVIO/FACTURACION DEL CLIENTE:  ....................................... 1 pto
+	- ALTA NUEVA DIRECCION ENVIO/FACTURACION: ...................................................... 2 ptos
+	- MODIFCAR DIRECCION ENVIO/FACTURACION EXISTENTE: .............................................. 2 ptos
+	
+		DEBE CARGARSE en el modal para el alta/modificacion de direcciones de envio/facturacion nada mas mostrarse, las PROVINCIAS haciendo una llamada al 
+		micro-servicio geoApi_nodejs_microservice; cuando se seleccione una provincia deben cargarse las POBLACIONES DE ESA PROVINCIA <==== VER EL README_INSTRUCCIONES.txt para ver endpoints
+
+		Deben estar todos los campos rellenados, solo se HABILITARA EL BOTON de "GUARDAR" cuando esto se cumpla
+
+	- ELIMINAR DIRECCION ENVIO/FACTURACION EXISTENTE: .............................................. 2 ptos
+	
+
+
+
+
+DEL LADO DEL SERVICIO en NODEJS:
+======================================================================================================================================================================
+2º ( 3  ptos) - actualizacion "direcciones" en cliente dentro de MongoDB
+======================================================================================================================================================================
+- se deben crear uno o varios endpoints en el servicio de PcCOMPONENTES__nodejs para recoger los datos de la direccion enviados por react, y actualizar la prop. "direcciones" del objeto cliente en mongodb.
+
+!!! OJO !!! ⚠️⚠️  deberá comprobar que se envia el accesstoken del usuario cuando hizo el login y este es valido para dicho cliente. 
+Si no es valido se mandara mensaje de acceso prohibido y se redirigira al login
+
+
+
+
+
+
+
+
+

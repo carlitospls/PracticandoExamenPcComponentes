@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6aca83402bf2cd4c6e9e1669"
+  },
+  "nombre": "morfeo is free",
+  "apellidos": "",
+  "cuenta": {
+    "email": "pmr.aiki@gmail.com",
+    "password": "$2b$10$rYz5e/gBUrfBCXih7s016.7OC1c27jXPRyGbW5nMKDJRpp8P66k36",
+    "activada": true,
+    "telefono": "",
+    "fechaCreacion": 1791885695597,
+    "imagenAvatar": "",
+    "tipoCuenta": "particular"
+  },
+  "direcciones": [],
+  "pedidos": [],
+  "favoritos": [],
+  "opiniones": []
+}]

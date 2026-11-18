@@ -1,0 +1,416 @@
+[{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b84e"
+  },
+  "CCOM": "03",
+  "CPRO": "33",
+  "PRO": "PRINCIPADO DE ASTURIAS"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b84b"
+  },
+  "CCOM": "07",
+  "CPRO": "02",
+  "PRO": "ALBACETE"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b852"
+  },
+  "CCOM": "08",
+  "CPRO": "09",
+  "PRO": "BURGOS"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b853"
+  },
+  "CCOM": "11",
+  "CPRO": "10",
+  "PRO": "CÁCERES"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b854"
+  },
+  "CCOM": "01",
+  "CPRO": "11",
+  "PRO": "CÁDIZ"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b860"
+  },
+  "CCOM": "02",
+  "CPRO": "22",
+  "PRO": "HUESCA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b863"
+  },
+  "CCOM": "08",
+  "CPRO": "24",
+  "PRO": "LEÓN"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b86a"
+  },
+  "CCOM": "12",
+  "CPRO": "32",
+  "PRO": "ORENSE"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b86b"
+  },
+  "CCOM": "08",
+  "CPRO": "34",
+  "PRO": "PALENCIA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b86d"
+  },
+  "CCOM": "12",
+  "CPRO": "36",
+  "PRO": "PONTEVEDRA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b870"
+  },
+  "CCOM": "08",
+  "CPRO": "40",
+  "PRO": "SEGOVIA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b84c"
+  },
+  "CCOM": "10",
+  "CPRO": "03",
+  "PRO": "ALICANTE"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b84f"
+  },
+  "CCOM": "08",
+  "CPRO": "05",
+  "PRO": "ÁVILA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b851"
+  },
+  "CCOM": "09",
+  "CPRO": "08",
+  "PRO": "BARCELONA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b855"
+  },
+  "CCOM": "06",
+  "CPRO": "39",
+  "PRO": "CANTABRIA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b85a"
+  },
+  "CCOM": "07",
+  "CPRO": "16",
+  "PRO": "CUENCA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b85b"
+  },
+  "CCOM": "09",
+  "CPRO": "17",
+  "PRO": "GERONA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b861"
+  },
+  "CCOM": "04",
+  "CPRO": "07",
+  "PRO": "ISLAS BALEARES"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b867"
+  },
+  "CCOM": "01",
+  "CPRO": "29",
+  "PRO": "MÁLAGA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b868"
+  },
+  "CCOM": "17",
+  "CPRO": "30",
+  "PRO": "REGIÓN DE MURCIA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b869"
+  },
+  "CCOM": "15",
+  "CPRO": "31",
+  "PRO": "COMUNIDAD FORAL DE NAVARRA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b871"
+  },
+  "CCOM": "01",
+  "CPRO": "41",
+  "PRO": "SEVILLA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b850"
+  },
+  "CCOM": "11",
+  "CPRO": "06",
+  "PRO": "BADAJOZ"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b85e"
+  },
+  "CCOM": "16",
+  "CPRO": "20",
+  "PRO": "GUIPÚZCOA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b866"
+  },
+  "CCOM": "14",
+  "CPRO": "28",
+  "PRO": "COMUNIDAD DE MADRID"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b86f"
+  },
+  "CCOM": "08",
+  "CPRO": "37",
+  "PRO": "SALAMANCA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b874"
+  },
+  "CCOM": "05",
+  "CPRO": "38",
+  "PRO": "SANTA CRUZ DE TENERIFE"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b876"
+  },
+  "CCOM": "07",
+  "CPRO": "45",
+  "PRO": "TOLEDO"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b878"
+  },
+  "CCOM": "08",
+  "CPRO": "47",
+  "PRO": "VALLADOLID"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b87a"
+  },
+  "CCOM": "08",
+  "CPRO": "49",
+  "PRO": "ZAMORA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b87b"
+  },
+  "CCOM": "02",
+  "CPRO": "50",
+  "PRO": "ZARAGOZA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b87d"
+  },
+  "CCOM": "19",
+  "CPRO": "52",
+  "PRO": "MELILLA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b84a"
+  },
+  "CCOM": "16",
+  "CPRO": "01",
+  "PRO": "ÁLAVA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b84d"
+  },
+  "CCOM": "01",
+  "CPRO": "04",
+  "PRO": "ALMERÍA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b856"
+  },
+  "CCOM": "10",
+  "CPRO": "12",
+  "PRO": "CASTELLÓN"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b857"
+  },
+  "CCOM": "07",
+  "CPRO": "13",
+  "PRO": "CIUDAD REAL"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b858"
+  },
+  "CCOM": "01",
+  "CPRO": "14",
+  "PRO": "CÓRDOBA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b859"
+  },
+  "CCOM": "12",
+  "CPRO": "15",
+  "PRO": "LA CORUÑA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b85c"
+  },
+  "CCOM": "01",
+  "CPRO": "18",
+  "PRO": "GRANA_A"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b85d"
+  },
+  "CCOM": "07",
+  "CPRO": "19",
+  "PRO": "GUADALAJARA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b85f"
+  },
+  "CCOM": "01",
+  "CPRO": "21",
+  "PRO": "HUELVA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b862"
+  },
+  "CCOM": "01",
+  "CPRO": "23",
+  "PRO": "JAÉN"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b864"
+  },
+  "CCOM": "09",
+  "CPRO": "25",
+  "PRO": "LÉRIDA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b865"
+  },
+  "CCOM": "12",
+  "CPRO": "27",
+  "PRO": "LUGO"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b86c"
+  },
+  "CCOM": "05",
+  "CPRO": "35",
+  "PRO": "LAS PALMAS"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b86e"
+  },
+  "CCOM": "13",
+  "CPRO": "26",
+  "PRO": "LA RIOJA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b872"
+  },
+  "CCOM": "08",
+  "CPRO": "42",
+  "PRO": "SORIA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b873"
+  },
+  "CCOM": "09",
+  "CPRO": "43",
+  "PRO": "TARRAGONA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b875"
+  },
+  "CCOM": "02",
+  "CPRO": "44",
+  "PRO": "TERUEL"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b877"
+  },
+  "CCOM": "10",
+  "CPRO": "46",
+  "PRO": "VALENCIA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b879"
+  },
+  "CCOM": "16",
+  "CPRO": "48",
+  "PRO": "VIZCAYA"
+},
+{
+  "_id": {
+    "$oid": "642beb7b25da68b20591b87c"
+  },
+  "CCOM": "18",
+  "CPRO": "51",
+  "PRO": "CEUTA"
+}]

@@ -1,0 +1,6032 @@
+[{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560ac"
+  },
+  "nombre": "Placas Base ASUS",
+  "pathCat": "1-2-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560ad"
+  },
+  "nombre": "Tarjetas Gráficas AMD",
+  "pathCat": "1-3-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560ae"
+  },
+  "nombre": "Procesadores",
+  "pathCat": "1-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560af"
+  },
+  "nombre": "Discos duros internos",
+  "pathCat": "1-5-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560b0"
+  },
+  "nombre": "Discos duros externos",
+  "pathCat": "1-5-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560b1"
+  },
+  "nombre": "Procesadores con IA",
+  "pathCat": "1-4-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560b2"
+  },
+  "nombre": "Discos duros para PS5",
+  "pathCat": "1-5-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560b3"
+  },
+  "nombre": "Discos duros para Xbox Series",
+  "pathCat": "1-5-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560b4"
+  },
+  "nombre": "Kits de refrigeración líquida",
+  "pathCat": "1-6-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560b5"
+  },
+  "nombre": "Discos duros SSD",
+  "pathCat": "1-5-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560b6"
+  },
+  "nombre": "Coolers CPU",
+  "pathCat": "1-6-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560b7"
+  },
+  "nombre": "Pasta térmica",
+  "pathCat": "1-6-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560b8"
+  },
+  "nombre": "Ventiladores suplementarios",
+  "pathCat": "1-6-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560b9"
+  },
+  "nombre": "RAM",
+  "pathCat": "1-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560ba"
+  },
+  "nombre": "Memorias RAM DDR4",
+  "pathCat": "1-7-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560bb"
+  },
+  "nombre": "Torres y Cajas de PC",
+  "pathCat": "1-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560bc"
+  },
+  "nombre": "Torre ATX",
+  "pathCat": "1-8-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560bd"
+  },
+  "nombre": "Memorias RAM DDR5",
+  "pathCat": "1-7-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560be"
+  },
+  "nombre": "Configurador de PCs",
+  "pathCat": "1-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560bf"
+  },
+  "nombre": "Torre Micro-ATX",
+  "pathCat": "1-8-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560c0"
+  },
+  "nombre": "Refrigeración",
+  "pathCat": "1-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560c1"
+  },
+  "nombre": "Torre Mini-ITX",
+  "pathCat": "1-8-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560c2"
+  },
+  "nombre": "Procesadores AMD",
+  "pathCat": "1-4-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560c3"
+  },
+  "nombre": "Torre E-ATX",
+  "pathCat": "1-8-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560c4"
+  },
+  "nombre": "Fuentes de alimentación",
+  "pathCat": "1-9",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560c5"
+  },
+  "nombre": "Fuentes de alimentación 80 Plus Gold",
+  "pathCat": "1-9-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560c6"
+  },
+  "nombre": "Fuentes de alimentación 80 Plus Bronze",
+  "pathCat": "1-9-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560c7"
+  },
+  "nombre": "Fuentes de alimentación 80 Plus Titanium",
+  "pathCat": "1-9-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560c8"
+  },
+  "nombre": "Fuentes de alimentación 80 Plus Silver",
+  "pathCat": "1-9-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560c9"
+  },
+  "nombre": "Raspberry Pi",
+  "pathCat": "1-10",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560ca"
+  },
+  "nombre": "Discos duros",
+  "pathCat": "1-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560cb"
+  },
+  "nombre": "Placas base para Raspberry Pi",
+  "pathCat": "1-10-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560cc"
+  },
+  "nombre": "Fuentes de alimentación 80 Plus Platinum",
+  "pathCat": "1-9-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560cd"
+  },
+  "nombre": "Kits para Raspberry Pi",
+  "pathCat": "1-10-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560ce"
+  },
+  "nombre": "Componentes",
+  "pathCat": "1",
+  "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAABIklEQVR4nOyY0QmDQAyGc6UDKOiL4ga+OISgILiMa4roCgqKDmEDB9KWtknaWizkexDRGH4ud5ffO6/rCkfiBAdDBVGc+aHGmO3+euZJn79GS0ahgihUEMXhBBntZQQ3gswTtoBpmoqi8DzPMMCwsiyXZeHnh7uS3b3bsDGoJkkSvIKEKIratnVdl8xvEZSsqiqpGqTve/yQHy8YoSAIxnEEOWEYDsMAvBESrDJp9zba7Xfh2I6RM+k+4cvL/jeoIIqbObR35+fk15JR/LMfwuZKRj50OdhcOfkfCHpNmqbwFlmW8YMF9gO9XxzH8zyDBDRoXdc5jgNf36l932+aJs9za/9IrIWt69qqYaJ/HRR6PkShgihUEIUKotCdmkIFUVwAAAD//8UHEJwAAAAGSURBVAMAzCaAiRneo00AAAAASUVORK5CYII="
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560cf"
+  },
+  "nombre": "Placas Base MSI",
+  "pathCat": "1-2-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560d0"
+  },
+  "nombre": "Procesadores Intel",
+  "pathCat": "1-4-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560d1"
+  },
+  "nombre": "Barebones",
+  "pathCat": "1-11-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560d2"
+  },
+  "nombre": "Módulos de expansión para Raspberry Pi",
+  "pathCat": "1-10-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560d3"
+  },
+  "nombre": "Top marcas",
+  "pathCat": "1-12",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560d4"
+  },
+  "nombre": "Capturadoras",
+  "pathCat": "1-11-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560d5"
+  },
+  "nombre": "ASUS",
+  "pathCat": "1-12-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560d6"
+  },
+  "nombre": "NVIDIA",
+  "pathCat": "1-12-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560d7"
+  },
+  "nombre": "Corsair",
+  "pathCat": "1-12-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560d8"
+  },
+  "nombre": "AMD",
+  "pathCat": "1-12-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560d9"
+  },
+  "nombre": "Otros componentes",
+  "pathCat": "1-11",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560da"
+  },
+  "nombre": "Tarjetas de sonido",
+  "pathCat": "1-11-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560db"
+  },
+  "nombre": "Accesorios para Raspberry Pi",
+  "pathCat": "1-10-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560dc"
+  },
+  "nombre": "Grabadoras",
+  "pathCat": "1-11-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560dd"
+  },
+  "nombre": "Samsung",
+  "pathCat": "1-12-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560de"
+  },
+  "nombre": "Placas base",
+  "pathCat": "1-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560df"
+  },
+  "nombre": "Tarjetas gráficas",
+  "pathCat": "1-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560e0"
+  },
+  "nombre": "MSI",
+  "pathCat": "1-12-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560e1"
+  },
+  "nombre": "Tarjetas Gráficas NVIDIA",
+  "pathCat": "1-3-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560e2"
+  },
+  "nombre": "Placas Base ASRock",
+  "pathCat": "1-2-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560e3"
+  },
+  "nombre": "Intel",
+  "pathCat": "1-12-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560e4"
+  },
+  "nombre": "Placas Base Gigabyte",
+  "pathCat": "1-2-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560e5"
+  },
+  "nombre": "Cajas y Carcasas para Raspberry Pi",
+  "pathCat": "1-10-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560e6"
+  },
+  "nombre": "Gigabyte",
+  "pathCat": "1-12-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560e7"
+  },
+  "nombre": "Tarjetas Gráficas Intel",
+  "pathCat": "1-3-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560e8"
+  },
+  "nombre": "Robótica",
+  "pathCat": "1-13-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560e9"
+  },
+  "nombre": "Western Digital",
+  "pathCat": "1-12-9",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560ea"
+  },
+  "nombre": "Tarjetas Gráficas Reacondicionadas",
+  "pathCat": "1-3-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560eb"
+  },
+  "nombre": "Arduino",
+  "pathCat": "1-13-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560ec"
+  },
+  "nombre": "Portátiles",
+  "pathCat": "2-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560ed"
+  },
+  "nombre": "Portátiles por tipo",
+  "pathCat": "2-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560ee"
+  },
+  "nombre": "PC Sobremesa",
+  "pathCat": "2-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560ef"
+  },
+  "nombre": "Configurador de PCs",
+  "pathCat": "2-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560f0"
+  },
+  "nombre": "Portátiles gaming",
+  "pathCat": "2-4-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560f1"
+  },
+  "nombre": "Portátiles gaming avanzado",
+  "pathCat": "2-4-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560f2"
+  },
+  "nombre": "Portátiles reacondicionados",
+  "pathCat": "2-4-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560f3"
+  },
+  "nombre": "Portátiles para diseño gráfico y edición",
+  "pathCat": "2-4-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560f4"
+  },
+  "nombre": "Portátiles Ultrabooks",
+  "pathCat": "2-4-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560f5"
+  },
+  "nombre": "Portátiles básicos hasta 799€",
+  "pathCat": "2-4-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560f6"
+  },
+  "nombre": "Portátiles para uso profesional",
+  "pathCat": "2-4-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560f7"
+  },
+  "nombre": "Portátiles para estudiar",
+  "pathCat": "2-4-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560f8"
+  },
+  "nombre": "MacBook",
+  "pathCat": "2-4-9",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560f9"
+  },
+  "nombre": "PcCom",
+  "pathCat": "2-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560fa"
+  },
+  "nombre": "Portátiles por marca",
+  "pathCat": "2-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560fb"
+  },
+  "nombre": "Portátiles reacondicionados gaming",
+  "pathCat": "2-4-10",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560fc"
+  },
+  "nombre": "Portátiles Apple Macbook",
+  "pathCat": "2-6-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560fd"
+  },
+  "nombre": "Portátil ASUS",
+  "pathCat": "2-6-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560fe"
+  },
+  "nombre": "Ordenadores",
+  "pathCat": "2",
+  "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAABOElEQVR4nOyXQYqEMBBFK8McQEE3ijdw4yEEBcHLeE0RvYKCoodwCpSMkCYVYgRp6i16YWL1o7TI93ffd3gTP/AyWIiChShYiIKFKP6FlmWpqioIAnEDvL2u623brv+hqazuF8fRgfdkWYa/4IIkSfq+933fsPJ1/9mhpmlc2SDjOGJB88rX/WeHoiia5xncEcfxNE3mleX+Uwgfp1y7c/6rdfSV1VUeewoWomAhChaiYCEKFqJ4qxCGBHlJ3EAWwTgBVpxCeZ6DU4qiACvOPISpNk3TdV3BBRhJh2HwPA+s81AYhl3XlWV5BFtrjtDetu1hY4Ewz4d2qVJ8eWL8OEGa6yr6+ZVLciof75Dh/MqpJN4hsgFAvU8m83udysc7pJ9fdSrFna+wJ+DDlYKFKFiIgoUoXif0BwAA//+D9TbrAAAABklEQVQDAISXmi57fYsoAAAAAElFTkSuQmCC"
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1560ff"
+  },
+  "nombre": "Robótica",
+  "pathCat": "1-13",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156100"
+  },
+  "nombre": "Portátil Lenovo",
+  "pathCat": "2-6-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156101"
+  },
+  "nombre": "Portátil HP",
+  "pathCat": "2-6-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156102"
+  },
+  "nombre": "Portátil Acer",
+  "pathCat": "2-6-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156103"
+  },
+  "nombre": "Portátil Alurin (Nuestra marca de portátiles)",
+  "pathCat": "2-6-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156104"
+  },
+  "nombre": "PC para estudiar o trabajar",
+  "pathCat": "2-7-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156105"
+  },
+  "nombre": "Portátil PcCom",
+  "pathCat": "2-6-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156106"
+  },
+  "nombre": "Ordenadores sobremesa Lenovo",
+  "pathCat": "2-8-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156107"
+  },
+  "nombre": "Portátil MSI",
+  "pathCat": "2-6-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156108"
+  },
+  "nombre": "Ordenadores sobremesa Acer",
+  "pathCat": "2-8-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156109"
+  },
+  "nombre": "PC sin sistema operativo",
+  "pathCat": "2-7-9",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15610a"
+  },
+  "nombre": "Accesorios para portátiles",
+  "pathCat": "2-9",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15610b"
+  },
+  "nombre": "Fundas y maletines",
+  "pathCat": "2-9-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15610c"
+  },
+  "nombre": "PC gaming",
+  "pathCat": "2-7-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15610d"
+  },
+  "nombre": "Ordenadores sobremesa Dell",
+  "pathCat": "2-8-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15610e"
+  },
+  "nombre": "Docks, Hubs y Adaptadores",
+  "pathCat": "2-9-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15610f"
+  },
+  "nombre": "Cargadores",
+  "pathCat": "2-9-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156110"
+  },
+  "nombre": "Bases refrigeradoras",
+  "pathCat": "2-9-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156111"
+  },
+  "nombre": "Repuestos",
+  "pathCat": "2-9-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156112"
+  },
+  "nombre": "Espacio Microsoft",
+  "pathCat": "2-10-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156113"
+  },
+  "nombre": "Sistemas operativos",
+  "pathCat": "2-10-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156114"
+  },
+  "nombre": "Mochilas",
+  "pathCat": "2-9-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156115"
+  },
+  "nombre": "Software aplicaciones",
+  "pathCat": "2-10-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156116"
+  },
+  "nombre": "Software",
+  "pathCat": "2-10",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156117"
+  },
+  "nombre": "PC sobremesa por tipo",
+  "pathCat": "2-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156118"
+  },
+  "nombre": "Mini PC",
+  "pathCat": "2-7-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156119"
+  },
+  "nombre": "Sobremesa Reacondicionados",
+  "pathCat": "2-7-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15611a"
+  },
+  "nombre": "Ordenadores sobremesa PcCom",
+  "pathCat": "2-8-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15611b"
+  },
+  "nombre": "Servidores",
+  "pathCat": "2-7-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15611c"
+  },
+  "nombre": "PC sobremesa por marca",
+  "pathCat": "2-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15611d"
+  },
+  "nombre": "Barebones",
+  "pathCat": "2-7-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15611e"
+  },
+  "nombre": "PC con Windows",
+  "pathCat": "2-7-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15611f"
+  },
+  "nombre": "Espacio Mac",
+  "pathCat": "2-11-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156120"
+  },
+  "nombre": "Zona marcas",
+  "pathCat": "2-12",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156121"
+  },
+  "nombre": "Espacio Apple",
+  "pathCat": "2-11",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156122"
+  },
+  "nombre": "Ordenadores sobremesa MSI",
+  "pathCat": "2-8-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156123"
+  },
+  "nombre": "Macbook Pro M5",
+  "pathCat": "2-11-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156124"
+  },
+  "nombre": "PC todo en uno - All in One",
+  "pathCat": "2-7-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156125"
+  },
+  "nombre": "Ordenadores sobremesa ASUS",
+  "pathCat": "2-8-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156126"
+  },
+  "nombre": "PC Corsair iCUE Certified",
+  "pathCat": "2-12-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156127"
+  },
+  "nombre": "Intel",
+  "pathCat": "2-12-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156128"
+  },
+  "nombre": "NVIDIA",
+  "pathCat": "2-12-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156129"
+  },
+  "nombre": "Ordenadores sobremesa HP",
+  "pathCat": "2-8-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15612a"
+  },
+  "nombre": "Monitores OLED y QD-OLED",
+  "pathCat": "3-1-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15612b"
+  },
+  "nombre": "Periféricos",
+  "pathCat": "3",
+  "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACy0lEQVR4nOyYOWsqURTH7zyEhKwEUoSEkISEkCIp8gFSpclGQposRYIIYqOdha2lrRaKWomFCyIiCNZWgo2giLjghgqKhSKKir4Dwn3yXOaMTkCJv0LO9d4z8+eeM3c5gl6vR+aJP2TOWApiQ0B+GIZhqI3J1182Q7lcjtqbm5sYlx+coVAoJJVKafPy8hLjxdsMNRoNrVarVqvT6fTIAV9fX4jHEIaXhTGRSNze3o6TApycnMCEra2tETZ4CFmlUrm5uZmgBoLl8/kwavgRZDQaC4XCyK7T01ONRhMIBA4ODggOHnLIbDZT++PjQ6lUnp+fk2nhIYdWVlZarVbfLpVKu7u7ZAZ4EMR1LZ7Mwm6uxWLx6ekJwsEMMThsuBdcXl5eIJTIF6FCBmqur6/hl0zL4eFhMBjc2dlhHYmaIblcPosaIJvNwkMwI1EztL+/P26lwQNL0eBeO5Ogyd/RLL3DLI+wbCwFsbH4Z+r/lmZOvRiWIWNj8XOI64mHa1YtQ8bGYgpaX1+ndq1WI2iq1Sq1NzY2MC4oQXt7e9ROpVIETTwepzYcqjAuKEFHR0fU9nq9BI3H46H28fExxgUl6O7ujtp6vb7b7WK8Op2OwWCgzfv7e4wXStDr6yu1Y7GYyWTCeOl0ukwmM/Ihswo6Ozt7f3+nTaj6RCKRyS5+v3/wVC8UCgfjPgHszRWKGxcXF81ms9/c3t6GKz3c1IZHQkCtVqtYLK7X6/1/4COF7B78MngQBFgsls/Pz8F/oOoDM/f4+Hh1dQXX+3A47HK5bDZbPp//9wKGcbvdMAb3Eo53e5VKpVAoCBcgkyQSCX4852IDzNP393e73WYdCRUqu93+8PBAuMB564AKUDQaFYlEAsHYk8Lq6qpMJoO84aqGzFKOKZfLTqfT4XAkk0lIGsgVuJtCqert7e35+Xlra4tMBT9FTx6Zu93+LwAAAP//q5UPGgAAAAZJREFUAwBmwBKwihWWrgAAAABJRU5ErkJggg=="
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15612c"
+  },
+  "nombre": "Monitores",
+  "pathCat": "3-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15612d"
+  },
+  "nombre": "Monitores 4K",
+  "pathCat": "3-1-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15612e"
+  },
+  "nombre": "Monitores para Diseñadores",
+  "pathCat": "3-1-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15612f"
+  },
+  "nombre": "Monitores Gaming",
+  "pathCat": "3-1-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156130"
+  },
+  "nombre": "Combos teclado y ratón",
+  "pathCat": "3-2-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156131"
+  },
+  "nombre": "Teclados gaming",
+  "pathCat": "3-2-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156132"
+  },
+  "nombre": "Monitores Curvos",
+  "pathCat": "3-1-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156133"
+  },
+  "nombre": "Teclados",
+  "pathCat": "3-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156134"
+  },
+  "nombre": "Teclados mecánicos",
+  "pathCat": "3-2-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156135"
+  },
+  "nombre": "Ratones gaming",
+  "pathCat": "3-3-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156136"
+  },
+  "nombre": "Monitores Ultrawide",
+  "pathCat": "3-1-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156137"
+  },
+  "nombre": "Alfombrillas",
+  "pathCat": "3-3-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156138"
+  },
+  "nombre": "Monitores Portátiles",
+  "pathCat": "3-1-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156139"
+  },
+  "nombre": "Teclados inalámbricos",
+  "pathCat": "3-2-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15613a"
+  },
+  "nombre": "Auriculares Bluetooth",
+  "pathCat": "3-4-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15613b"
+  },
+  "nombre": "Ratones verticales",
+  "pathCat": "3-3-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15613c"
+  },
+  "nombre": "Auriculares",
+  "pathCat": "3-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15613d"
+  },
+  "nombre": "Soportes para Monitor",
+  "pathCat": "3-1-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15613e"
+  },
+  "nombre": "Ratones inalámbricos",
+  "pathCat": "3-3-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15613f"
+  },
+  "nombre": "Auriculares con micrófono",
+  "pathCat": "3-4-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156140"
+  },
+  "nombre": "Teclados oficina",
+  "pathCat": "3-2-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156141"
+  },
+  "nombre": "Auriculares de diadema",
+  "pathCat": "3-4-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156142"
+  },
+  "nombre": "Ratones",
+  "pathCat": "3-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156143"
+  },
+  "nombre": "Ver más",
+  "pathCat": "3-4-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156144"
+  },
+  "nombre": "Auriculares con cable",
+  "pathCat": "3-4-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156145"
+  },
+  "nombre": "Auriculares deportivos",
+  "pathCat": "3-4-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156146"
+  },
+  "nombre": "Auriculares de botón",
+  "pathCat": "3-4-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156147"
+  },
+  "nombre": "Almacenamiento",
+  "pathCat": "3-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156148"
+  },
+  "nombre": "Sillas",
+  "pathCat": "3-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156149"
+  },
+  "nombre": "Discos Duros de Red/NAS",
+  "pathCat": "3-6-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15614a"
+  },
+  "nombre": "Sillas gaming",
+  "pathCat": "3-5-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15614b"
+  },
+  "nombre": "Memorias USB",
+  "pathCat": "3-6-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15614c"
+  },
+  "nombre": "Sillas de escritorio",
+  "pathCat": "3-5-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15614d"
+  },
+  "nombre": "Otros periféricos",
+  "pathCat": "3-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15614e"
+  },
+  "nombre": "Tarjetas de Memoria",
+  "pathCat": "3-6-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15614f"
+  },
+  "nombre": "Altavoces",
+  "pathCat": "3-7-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156150"
+  },
+  "nombre": "Mandos PC",
+  "pathCat": "3-7-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156151"
+  },
+  "nombre": "Accesorios gaming",
+  "pathCat": "3-7-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156152"
+  },
+  "nombre": "Discos Duros Externos",
+  "pathCat": "3-6-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156153"
+  },
+  "nombre": "Micrófonos",
+  "pathCat": "3-7-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156154"
+  },
+  "nombre": "Webcams",
+  "pathCat": "3-7-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156155"
+  },
+  "nombre": "Auriculares con cancelación de ruido",
+  "pathCat": "3-4-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156156"
+  },
+  "nombre": "Impresoras",
+  "pathCat": "3-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156157"
+  },
+  "nombre": "Tabletas gráficas",
+  "pathCat": "3-7-9",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156158"
+  },
+  "nombre": "Escáners",
+  "pathCat": "3-8-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156159"
+  },
+  "nombre": "Impresoras láser",
+  "pathCat": "3-8-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15615a"
+  },
+  "nombre": "Volantes",
+  "pathCat": "3-7-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15615b"
+  },
+  "nombre": "Mesas gaming",
+  "pathCat": "3-7-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15615c"
+  },
+  "nombre": "Impresoras multifunción",
+  "pathCat": "3-8-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15615d"
+  },
+  "nombre": "Impresoras inyección de tinta",
+  "pathCat": "3-8-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15615e"
+  },
+  "nombre": "SAIS",
+  "pathCat": "3-7-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15615f"
+  },
+  "nombre": "Bobinas de Filamento",
+  "pathCat": "3-9-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156160"
+  },
+  "nombre": "Grabadoras y Cortadoras Láser",
+  "pathCat": "3-9-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156161"
+  },
+  "nombre": "Fresadoras CNC",
+  "pathCat": "3-9-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156162"
+  },
+  "nombre": "Bolígrafos 3D",
+  "pathCat": "3-9-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156163"
+  },
+  "nombre": "Dispositivos postprocesado 3D",
+  "pathCat": "3-9-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156164"
+  },
+  "nombre": "Escáner 3D",
+  "pathCat": "3-9-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156165"
+  },
+  "nombre": "Impresoras 3D",
+  "pathCat": "3-9-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156166"
+  },
+  "nombre": "Resina para impresora 3D",
+  "pathCat": "3-9-9",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156167"
+  },
+  "nombre": "Impresión 3D y CNC",
+  "pathCat": "3-9",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156168"
+  },
+  "nombre": "Guía de inicio",
+  "pathCat": "3-9-10",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156169"
+  },
+  "nombre": "Plotter de corte",
+  "pathCat": "3-9-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15616a"
+  },
+  "nombre": "Consumibles",
+  "pathCat": "3-10",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15616b"
+  },
+  "nombre": "Cartuchos compatibles",
+  "pathCat": "3-10-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15616c"
+  },
+  "nombre": "Cartuchos originales",
+  "pathCat": "3-10-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15616d"
+  },
+  "nombre": "CD/DVD",
+  "pathCat": "3-10-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15616e"
+  },
+  "nombre": "Tóners originales",
+  "pathCat": "3-10-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15616f"
+  },
+  "nombre": "Redes",
+  "pathCat": "3-11",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156170"
+  },
+  "nombre": "Papel para impresora",
+  "pathCat": "3-10-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156171"
+  },
+  "nombre": "Tóners compatibles",
+  "pathCat": "3-10-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156172"
+  },
+  "nombre": "Routers",
+  "pathCat": "3-11-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156173"
+  },
+  "nombre": "Switchs",
+  "pathCat": "3-11-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156174"
+  },
+  "nombre": "Tarjetas de red",
+  "pathCat": "3-11-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156175"
+  },
+  "nombre": "Repetidores WiFi",
+  "pathCat": "3-11-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156176"
+  },
+  "nombre": "Docks, hubs y adaptadores",
+  "pathCat": "3-11-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156177"
+  },
+  "nombre": "Adaptadores USB WiFi",
+  "pathCat": "3-11-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156178"
+  },
+  "nombre": "WiFi mesh",
+  "pathCat": "3-11-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156179"
+  },
+  "nombre": "Puntos de acceso",
+  "pathCat": "3-11-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15617a"
+  },
+  "nombre": "Adaptadores PLC - Powerline",
+  "pathCat": "3-11-9",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15617b"
+  },
+  "nombre": "Antenas",
+  "pathCat": "3-11-10",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15617c"
+  },
+  "nombre": "Patch panel",
+  "pathCat": "3-11-12",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15617d"
+  },
+  "nombre": "Racks, armarios y accesorios",
+  "pathCat": "3-11-11",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15617e"
+  },
+  "nombre": "KVM",
+  "pathCat": "3-11-13",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15617f"
+  },
+  "nombre": "Servidores de impresión",
+  "pathCat": "3-11-14",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156180"
+  },
+  "nombre": "Cables USB",
+  "pathCat": "3-12-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156181"
+  },
+  "nombre": "Cables",
+  "pathCat": "3-12",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156182"
+  },
+  "nombre": "Organizador de cables",
+  "pathCat": "3-12-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156183"
+  },
+  "nombre": "Cables de red Ethernet",
+  "pathCat": "3-12-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156184"
+  },
+  "nombre": "HDMI",
+  "pathCat": "3-12-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156185"
+  },
+  "nombre": "DisplayPort",
+  "pathCat": "3-12-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156186"
+  },
+  "nombre": "Cables de alimentación",
+  "pathCat": "3-12-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156187"
+  },
+  "nombre": "Cables de audio y vídeo",
+  "pathCat": "3-12-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156188"
+  },
+  "nombre": "Regletas",
+  "pathCat": "3-12-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156189"
+  },
+  "nombre": "Fibra óptica",
+  "pathCat": "3-12-10",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15618a"
+  },
+  "nombre": "Cables internos de PC",
+  "pathCat": "3-12-9",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15618b"
+  },
+  "nombre": "Cables SATA",
+  "pathCat": "3-12-11",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15618c"
+  },
+  "nombre": "Business y oficina",
+  "pathCat": "3-13",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15618d"
+  },
+  "nombre": "Material de oficina",
+  "pathCat": "3-13-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15618e"
+  },
+  "nombre": "Gafas de Luz Azul",
+  "pathCat": "3-13-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15618f"
+  },
+  "nombre": "TPV",
+  "pathCat": "3-13-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156190"
+  },
+  "nombre": "Destructoras de papel",
+  "pathCat": "3-13-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156191"
+  },
+  "nombre": "Sistemas de videoconferencia",
+  "pathCat": "3-13-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156192"
+  },
+  "nombre": "Razer",
+  "pathCat": "3-15-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156193"
+  },
+  "nombre": "TP-Link",
+  "pathCat": "3-15-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156194"
+  },
+  "nombre": "Zona marcas",
+  "pathCat": "3-15",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156195"
+  },
+  "nombre": "Logitech",
+  "pathCat": "3-15-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156196"
+  },
+  "nombre": "Criptominería",
+  "pathCat": "3-14",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156197"
+  },
+  "nombre": "Strong",
+  "pathCat": "3-15-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156198"
+  },
+  "nombre": "Videoconsolas PS5",
+  "pathCat": "4-1-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156199"
+  },
+  "nombre": "PlayStation",
+  "pathCat": "4-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15619a"
+  },
+  "nombre": "Mandos PS5",
+  "pathCat": "4-1-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15619b"
+  },
+  "nombre": "Nintendo",
+  "pathCat": "4-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15619c"
+  },
+  "nombre": "Juegos Switch 2",
+  "pathCat": "4-2-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15619d"
+  },
+  "nombre": "Juegos PS5",
+  "pathCat": "4-1-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15619e"
+  },
+  "nombre": "Juegos Switch",
+  "pathCat": "4-2-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15619f"
+  },
+  "nombre": "Accesorios PS5",
+  "pathCat": "4-1-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561a0"
+  },
+  "nombre": "Consola Switch 2",
+  "pathCat": "4-2-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561a1"
+  },
+  "nombre": "Consola Switch",
+  "pathCat": "4-2-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561a2"
+  },
+  "nombre": "Auriculares PS5",
+  "pathCat": "4-1-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561a3"
+  },
+  "nombre": "Accesorios Switch 2",
+  "pathCat": "4-2-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561a4"
+  },
+  "nombre": "Ver más",
+  "pathCat": "4-1-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561a5"
+  },
+  "nombre": "Mandos Switch 2",
+  "pathCat": "4-2-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561a6"
+  },
+  "nombre": "Consolas y videojuegos",
+  "pathCat": "4",
+  "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAEfElEQVR4nOxY2SttURhfZ0fm4cE8yxRR3qQ88KLMZI5kipCkzH+AkHjxYEyKzEokeaEM8aSUWeYQypQh1Lk/9m3d5Tj7cM/Z91z35ve0vm+v9e1vr++3vu/bS0MqlZKvBI58MQg6JFEIExMTf3//urq6o6MjIiokQiHDW8nnkJyc3NLSoq2tTcSACA4Bfn5+09PTRAyIw6GZmZmKigoiBiTKnbLz8/O5ubmMjAwMeI2Ojs7u7q6ZmRlRDUruEEgdHh6+uLhobGzMa+7v77u6uojKUClkNjY2tbW1VBwbGyMqQ6JiYjw8PLS1teXHpqamp6enRDVIVM/U7HlU3dq/k6n/Fv4Xh3p7e93c3Pi6xup5DR4NDQ0RpaAkqa2srI6PjxVMsLOz29vbI2pz6DOVTjnL/wiHLi4umpubQ0JCwAYDAwOeGUFBQe3t7VdXVzKTpQxkHmEy7GAhbwGmYDAsLKy1tfW9HR6yIdvf36+srGxqaiLCiIuL6+vrYx36ZY4JZURExPDwsAI7BQUFpaWllpaWgg719/enpKQ8PDwQdUFXVxcHNjQ0lGp+hQxlEp+uTm+Au7s7RLCtrY3IOIQQFBcXs1NRyYuKiiYnJy8vL7GLOMNowczNzclvAnbAgZOTExg5OzubmpoqLCxE1mDnZGZmTkxM8OOXkKGxcnd3p3sD6oG80dHRcl/Q0dGB3n5paYl8BB8fn/z8/KSkJLlPOzs7s7Ky0EXxopGR0ebmJvqFF4diY2MHBgb4B2j80Ap6e3v/9FekSo4vBH8xqK6uTktL45Wzs7NoxumcvLy8hoYGycrKioeHB9XiQKIxpaJYDqG1RbzIu56pqqqqvLycipjDDQ4OUtnZ2Zm6rx7g5KMbpuLIyAg3Pj5O5ZycHI77I7kbkTJ9BQasHgxBoqEinOHQg1IZKZW8/WdlFwvphQDemL0CA2z86SswYPWYFhwcTJeA1xKkJiQDXn58fNTU1BSrcArxRkaPMf15wj8Mx74eDhG1Q0tLi46fn585CwsLKm9vbxPxIMQbGf3W1hZ9hITJ2dvbU5lPl0LVW0FVlwsh3rB68vZvzsHBQVJTU1NSUsLLLi4ua2tr7EH703kIMXJyckKLwYv19fVcVFQUfQySI6MTNaKxsZF6A8AZDskwPj6eqnJzc1dXV4nYkMunhYUFFDsqpqamgj8vtWxnZwfVgxZXQ0NDXBuwPQoLJFPUy5ubG/IRUKR7enrYNMOiu7sbNYoWVz09vY2NDZD6Z4OGlYmJiewCR0fHhIQEmPPy8kIpvr6+xiUQdhgOkd9BTEwMdh2VHwkPNFpeXkYbiW5H5i5wdHQUHTNhO0ZsZllZGfkbwHdmZ2fz4zctLPYJleXp6YmoC9g29M1sWN+UUsRofX09PT1dQ0NDgZXAwMCDgwOpQmBCQECAAiO4JAWjkRVlSCb/RxEXdei9QRfkbgT79vYWSl9f37BXeHp6ks8BjSWMgB/z8/MQ9fX1ra2tXV1dIyMjwS2cnvdLRLgfEhff1zEf4duhj/DlHPoBAAD//yH4JkUAAAAGSURBVAMAzOhyPvFgvRcAAAAASUVORK5CYII="
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561a7"
+  },
+  "nombre": "Ver más",
+  "pathCat": "4-2-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561a8"
+  },
+  "nombre": "Xbox",
+  "pathCat": "4-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561a9"
+  },
+  "nombre": "Accesorios Switch",
+  "pathCat": "4-2-9",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561aa"
+  },
+  "nombre": "Juegos Xbox",
+  "pathCat": "4-3-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561ab"
+  },
+  "nombre": "Ver más",
+  "pathCat": "4-3-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561ac"
+  },
+  "nombre": "Auriculares Xbox",
+  "pathCat": "4-3-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561ad"
+  },
+  "nombre": "ASUS ROG Ally",
+  "pathCat": "4-4-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561ae"
+  },
+  "nombre": "Accesorios Xbox",
+  "pathCat": "4-3-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561af"
+  },
+  "nombre": "Consolas Xbox",
+  "pathCat": "4-3-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561b0"
+  },
+  "nombre": "Lenovo Legion Go",
+  "pathCat": "4-4-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561b1"
+  },
+  "nombre": "Mandos Xbox",
+  "pathCat": "4-3-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561b2"
+  },
+  "nombre": "Ver más",
+  "pathCat": "4-4-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561b3"
+  },
+  "nombre": "Consolas retro, mini y arcade",
+  "pathCat": "4-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561b4"
+  },
+  "nombre": "Consolas portátiles",
+  "pathCat": "4-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561b5"
+  },
+  "nombre": "Accesorios Consola Portátil",
+  "pathCat": "4-4-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561b6"
+  },
+  "nombre": "Videojuegos",
+  "pathCat": "4-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561b7"
+  },
+  "nombre": "Juegos Nintendo Switch 2",
+  "pathCat": "4-6-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561b8"
+  },
+  "nombre": "Juegos para PC",
+  "pathCat": "4-6-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561b9"
+  },
+  "nombre": "Juegos Xbox",
+  "pathCat": "4-6-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561ba"
+  },
+  "nombre": "Juegos PS4",
+  "pathCat": "4-6-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561bb"
+  },
+  "nombre": "Juego GTA VI ¡Resérvalo!",
+  "pathCat": "4-6-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561bc"
+  },
+  "nombre": "Accesorios gaming",
+  "pathCat": "4-7-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561bd"
+  },
+  "nombre": "Setup gaming",
+  "pathCat": "4-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561be"
+  },
+  "nombre": "Alfombrillas gaming",
+  "pathCat": "4-7-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561bf"
+  },
+  "nombre": "Puff gaming",
+  "pathCat": "4-7-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561c0"
+  },
+  "nombre": "Mesas gaming",
+  "pathCat": "4-7-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561c1"
+  },
+  "nombre": "Juegos Nintendo Switch",
+  "pathCat": "4-6-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561c2"
+  },
+  "nombre": "Ver más",
+  "pathCat": "4-6-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561c3"
+  },
+  "nombre": "Mandos Switch",
+  "pathCat": "4-2-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561c4"
+  },
+  "nombre": "Juegos PS5",
+  "pathCat": "4-6-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561c5"
+  },
+  "nombre": "Simflight",
+  "pathCat": "4-8-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561c6"
+  },
+  "nombre": "Joysticks",
+  "pathCat": "4-8-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561c7"
+  },
+  "nombre": "Volantes simracing",
+  "pathCat": "4-8-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561c8"
+  },
+  "nombre": "Gafas de realidad virtual",
+  "pathCat": "4-9-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561c9"
+  },
+  "nombre": "Simtask",
+  "pathCat": "4-8-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561ca"
+  },
+  "nombre": "Simracing",
+  "pathCat": "4-8-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561cb"
+  },
+  "nombre": "Simulación gaming",
+  "pathCat": "4-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561cc"
+  },
+  "nombre": "Volantes gaming",
+  "pathCat": "4-8-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561cd"
+  },
+  "nombre": "Sillas gaming",
+  "pathCat": "4-7-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561ce"
+  },
+  "nombre": "Realidad virtual y aumentada",
+  "pathCat": "4-9",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561cf"
+  },
+  "nombre": "Móviles por menos de 200€",
+  "pathCat": "5-1-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561d0"
+  },
+  "nombre": "Moviles POCO",
+  "pathCat": "5-2-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561d1"
+  },
+  "nombre": "Móviles  gama media",
+  "pathCat": "5-1-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561d2"
+  },
+  "nombre": "Móviles y tablets",
+  "pathCat": "5",
+  "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAABDUlEQVR4nOyYQQqDMBBFx9IDKOhG8QZuPISgIHgZrymiV1BQ9BB2oCClmz8xtESYt5AsJuaRmYQwz+M4yCUe5BgqhJAKreta13UYhp4hPKVpmn3fhQt5kqJmmzzP+UtXSdN0GIYgCGCkaIfatrWxYaZp4p9IIkU7FMfxsixkR5Ik8zzDMJEQl8I5Nr23TOfqsUc4J/QkQz5r4hdoyhD3ryGbe0iCpgyhQggVQqgQQoUQKoRQIYS+qRGaMoS+qRGaMsQ9hbhhdY49Q86J3LCSrCUSKoqCrCnLUhIm6qBxDzXLsm3b6Crc9BzH0fd9GCnaoSiK+r6vqkrSRv3i3Rbuuk5iQ8Id+id67BHOCb0AAAD//896PxoAAAAGSURBVAMAeBFQVaS30nUAAAAASUVORK5CYII="
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561d3"
+  },
+  "nombre": "Móviles Realme",
+  "pathCat": "5-2-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561d4"
+  },
+  "nombre": "Moviles Oppo",
+  "pathCat": "5-2-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561d5"
+  },
+  "nombre": "Móviles Google Pixel",
+  "pathCat": "5-2-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561d6"
+  },
+  "nombre": "Accesorios para móviles",
+  "pathCat": "5-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561d7"
+  },
+  "nombre": "Cargadores para móvil",
+  "pathCat": "5-3-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561d8"
+  },
+  "nombre": "Fundas para móviles",
+  "pathCat": "5-3-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561d9"
+  },
+  "nombre": "Power Banks",
+  "pathCat": "5-3-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561da"
+  },
+  "nombre": "Otros accesorios",
+  "pathCat": "5-3-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561db"
+  },
+  "nombre": "Protectores de pantalla",
+  "pathCat": "5-3-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561dc"
+  },
+  "nombre": "Soportes para móvil",
+  "pathCat": "5-3-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561dd"
+  },
+  "nombre": "Tarjetas microSD",
+  "pathCat": "5-3-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561de"
+  },
+  "nombre": "Móviles rugerizados",
+  "pathCat": "5-1-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561df"
+  },
+  "nombre": "Localizadores",
+  "pathCat": "5-3-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561e0"
+  },
+  "nombre": "Accesorios para localizadores",
+  "pathCat": "5-3-9",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561e1"
+  },
+  "nombre": "Aros de luz",
+  "pathCat": "5-3-10",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561e2"
+  },
+  "nombre": "Tablets",
+  "pathCat": "5-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561e3"
+  },
+  "nombre": "Micrófonos",
+  "pathCat": "4-7-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561e4"
+  },
+  "nombre": "Móviles por marca",
+  "pathCat": "5-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561e5"
+  },
+  "nombre": "Móviles 5G",
+  "pathCat": "5-1-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561e6"
+  },
+  "nombre": "Móviles plegables",
+  "pathCat": "5-1-9",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561e7"
+  },
+  "nombre": "Móviles gaming",
+  "pathCat": "5-1-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561e8"
+  },
+  "nombre": "Móviles básicos",
+  "pathCat": "5-1-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561e9"
+  },
+  "nombre": "Móviles gama premium",
+  "pathCat": "5-1-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561ea"
+  },
+  "nombre": "Tablets premium",
+  "pathCat": "5-4-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561eb"
+  },
+  "nombre": "Tablets reacondicionadas",
+  "pathCat": "5-4-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561ec"
+  },
+  "nombre": "Tablets por marca",
+  "pathCat": "5-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561ed"
+  },
+  "nombre": "iPad",
+  "pathCat": "5-5-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561ee"
+  },
+  "nombre": "Samsung Galaxy Tab",
+  "pathCat": "5-5-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561ef"
+  },
+  "nombre": "Tablets Xiaomi",
+  "pathCat": "5-5-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561f0"
+  },
+  "nombre": "Tablets por menos de 200€",
+  "pathCat": "5-4-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561f1"
+  },
+  "nombre": "Tablets Lenovo",
+  "pathCat": "5-5-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561f2"
+  },
+  "nombre": "Accesorios para tablets",
+  "pathCat": "5-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561f3"
+  },
+  "nombre": "Fundas para tablets",
+  "pathCat": "5-6-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561f4"
+  },
+  "nombre": "Lápiz para tablets",
+  "pathCat": "5-6-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561f5"
+  },
+  "nombre": "Tablets calidad-precio",
+  "pathCat": "5-4-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561f6"
+  },
+  "nombre": "Soportes para tablets",
+  "pathCat": "5-6-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561f7"
+  },
+  "nombre": "iPhone",
+  "pathCat": "5-2-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561f8"
+  },
+  "nombre": "Samsung Galaxy",
+  "pathCat": "5-2-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561f9"
+  },
+  "nombre": "Amazon Kindle",
+  "pathCat": "5-7-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561fa"
+  },
+  "nombre": "Tarjetas microSD",
+  "pathCat": "5-6-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561fb"
+  },
+  "nombre": "Protectores de pantalla",
+  "pathCat": "5-6-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561fc"
+  },
+  "nombre": "Accesorios eBooks",
+  "pathCat": "5-7-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561fd"
+  },
+  "nombre": "Móviles reacondicionados",
+  "pathCat": "5-1-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561fe"
+  },
+  "nombre": "Moviles Motorola",
+  "pathCat": "5-2-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1561ff"
+  },
+  "nombre": "Telefonía fija",
+  "pathCat": "5-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156200"
+  },
+  "nombre": "eBooks",
+  "pathCat": "5-7-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156201"
+  },
+  "nombre": "Móviles y Smartphones",
+  "pathCat": "5-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156202"
+  },
+  "nombre": "eBooks",
+  "pathCat": "5-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156203"
+  },
+  "nombre": "Teléfonos inalámbricos",
+  "pathCat": "5-8-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156204"
+  },
+  "nombre": "iPhone reacondicionado",
+  "pathCat": "5-9-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156205"
+  },
+  "nombre": "Móviles reacondicionados",
+  "pathCat": "5-9",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156206"
+  },
+  "nombre": "Moviles Xiaomi",
+  "pathCat": "5-2-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156207"
+  },
+  "nombre": "Televisores por pulgadas",
+  "pathCat": "6-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156208"
+  },
+  "nombre": "Teléfonos sobremesa",
+  "pathCat": "5-8-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156209"
+  },
+  "nombre": "TV LG",
+  "pathCat": "6-3-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15620a"
+  },
+  "nombre": "TV 40-43 pulgadas",
+  "pathCat": "6-2-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15620b"
+  },
+  "nombre": "TV Philips",
+  "pathCat": "6-3-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15620c"
+  },
+  "nombre": "TV Nilait  (Marca PcComponentes)",
+  "pathCat": "6-3-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15620d"
+  },
+  "nombre": "TV 32 pulgadas",
+  "pathCat": "6-2-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15620e"
+  },
+  "nombre": "Ver todas",
+  "pathCat": "6-3-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15620f"
+  },
+  "nombre": "Samsung Galaxy reacondicionado",
+  "pathCat": "5-9-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156210"
+  },
+  "nombre": "TV 55 pulgadas",
+  "pathCat": "6-2-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156211"
+  },
+  "nombre": "TV Hisense",
+  "pathCat": "6-3-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156212"
+  },
+  "nombre": "Móviles Xiaomi reacondicionados",
+  "pathCat": "5-9-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156213"
+  },
+  "nombre": "TV 65 pulgadas",
+  "pathCat": "6-2-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156214"
+  },
+  "nombre": "TV más de 75 pulgadas",
+  "pathCat": "6-2-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156215"
+  },
+  "nombre": "Google Pixel reacondicionado",
+  "pathCat": "5-9-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156216"
+  },
+  "nombre": "Cómo elegir televisor",
+  "pathCat": "6-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156217"
+  },
+  "nombre": "TV Samsung",
+  "pathCat": "6-3-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156218"
+  },
+  "nombre": "TV 48-50 pulgadas",
+  "pathCat": "6-2-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156219"
+  },
+  "nombre": "Televisores",
+  "pathCat": "6",
+  "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAB1UlEQVR4nOyZva4BQRiGZ2f3AkgoEJVW4yIkJEKDgoj4uRqlVoKICIW/xi2oRKjVCKIQJdnzyp7sGeKcL+HIbjFPITOz+73zZDMr8dF0XWd2gjObIYUobkLb7TYWi7lcLsUisHUikdjv95BRNptNKBSCE7Mav9+/WCxUqEynU2YDTqcTHpJ6OBzO5zOzB7vdThHnVn0n4RiZY/naU0ghCilEIYUopBCFFKKQQhRSiEIKUUghCilEYTshxev1rtdrZg98Ph8Ph8PMNkQiEQW/XoPBID6Z1aDZsFwuudvtns/n0WjU6XQyizDaMbPZzOFw3A41jtFkMjkej7rAYDDQNM2swXg8HusvgUJVVcUohIs3oOkxGo3waNhvb1m3202lUpfLxZgirt/vx+Nx9hIoRKDphFiED4fDpzfzpzaZTOZ6vZo2WHnZxiCZTCKE8+/tEA4nrNBCrVYLNmZfBhEoQxx7G4QgXHTCRlh5uE0Re0KdTiebzYqX2+32w8qbwCCfz4srvV4vnU4/F/J4PGKzEcW5XI79N/V6vVQqmdNAILBarcwp/6PsEzagWCzWarUfA37ncDepVqvGoNlsFgoF9jHK5XKj0TDGlUpFvKTI/zoIpBDFFwAAAP//hpV2lAAAAAZJREFUAwCvgAW1hCPK+wAAAABJRU5ErkJggg=="
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15621a"
+  },
+  "nombre": "Teléfonos VoIP",
+  "pathCat": "5-8-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15621b"
+  },
+  "nombre": "Televisores por marca",
+  "pathCat": "6-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15621c"
+  },
+  "nombre": "TV TCL",
+  "pathCat": "6-3-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15621d"
+  },
+  "nombre": "TV Xiaomi",
+  "pathCat": "6-3-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15621e"
+  },
+  "nombre": "Televisores por tecnología",
+  "pathCat": "6-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15621f"
+  },
+  "nombre": "TV OLED",
+  "pathCat": "6-4-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156220"
+  },
+  "nombre": "TV Mini LED",
+  "pathCat": "6-4-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156221"
+  },
+  "nombre": "Smart TV",
+  "pathCat": "6-4-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156222"
+  },
+  "nombre": "TV QNED",
+  "pathCat": "6-4-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156223"
+  },
+  "nombre": "TV ambilight",
+  "pathCat": "6-4-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156224"
+  },
+  "nombre": "Televisores por resolución",
+  "pathCat": "6-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156225"
+  },
+  "nombre": "TV 4K",
+  "pathCat": "6-5-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156226"
+  },
+  "nombre": "TV QLED",
+  "pathCat": "6-4-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156227"
+  },
+  "nombre": "TV 8K",
+  "pathCat": "6-5-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156228"
+  },
+  "nombre": "Vídeo",
+  "pathCat": "6-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156229"
+  },
+  "nombre": "TV Full HD",
+  "pathCat": "6-5-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15622a"
+  },
+  "nombre": "Android Smart TV",
+  "pathCat": "6-6-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15622b"
+  },
+  "nombre": "Reproductores Blue-ray/DVD",
+  "pathCat": "6-6-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15622c"
+  },
+  "nombre": "Receptores de TDT y TV",
+  "pathCat": "6-6-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15622d"
+  },
+  "nombre": "Capturadoras de vídeo",
+  "pathCat": "6-6-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15622e"
+  },
+  "nombre": "Proyectores",
+  "pathCat": "6-7-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15622f"
+  },
+  "nombre": "Pantallas de proyector",
+  "pathCat": "6-7-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156230"
+  },
+  "nombre": "Accesorios para proyectores",
+  "pathCat": "6-7-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156231"
+  },
+  "nombre": "Proyección y accesorios",
+  "pathCat": "6-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156232"
+  },
+  "nombre": "Cables HDMI",
+  "pathCat": "6-8-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156233"
+  },
+  "nombre": "Soportes TV",
+  "pathCat": "6-8-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156234"
+  },
+  "nombre": "Punteros y presentadores",
+  "pathCat": "6-7-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156235"
+  },
+  "nombre": "Accesorios TV",
+  "pathCat": "6-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156236"
+  },
+  "nombre": "Gran electrodoméstico",
+  "pathCat": "7-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156237"
+  },
+  "nombre": "Lavadoras",
+  "pathCat": "7-1-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156238"
+  },
+  "nombre": "Frigoríficos",
+  "pathCat": "7-1-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156239"
+  },
+  "nombre": "Lavavajillas",
+  "pathCat": "7-1-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15623a"
+  },
+  "nombre": "Electrodomésticos",
+  "pathCat": "7",
+  "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAABIElEQVR4nOyYMaqEQAyG42MvINqoWFh4AAtvYCWCl/GSlvYigoKCgkfwDSws2+z86xphhHyFTJEZfzJJJuSx7zuZxB8ZhghCYEHzPBdF4bqudQK1vSzLZVng7yx9UCs1SZKoL3EQhmHTNLZta2yAh6qq4lKjGIZBHai3AR7yfX+aJuIjCIJxHOlnQer6X+szFev7c4zLsgcdhMtnn5DCiBBBiPtn2dX905099F6BrkOCGnHnGOJ67fXIa4+QoEaIIIQIQkg/hJArQ4ggxN2yTA2Xtm17rll6asdx9AbAQ1mWESt5nusNwHyo7/s0Tdd1JQ7USK+ua8/z6GdBirZt4zgmDrqui6JIb2N9U3nPdIlH9xqXZdbVb9NRpDAijBP0DwAA//899LG7AAAABklEQVQDAGwyZkyssNOxAAAAAElFTkSuQmCC"
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15623b"
+  },
+  "nombre": "Secadoras",
+  "pathCat": "7-1-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15623c"
+  },
+  "nombre": "Congeladores",
+  "pathCat": "7-1-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15623d"
+  },
+  "nombre": "Campanas extractoras",
+  "pathCat": "7-1-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15623e"
+  },
+  "nombre": "Cocinas de gas y eléctricas",
+  "pathCat": "7-1-10",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15623f"
+  },
+  "nombre": "Lavadoras secadoras",
+  "pathCat": "7-1-9",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156240"
+  },
+  "nombre": "Cafeteras",
+  "pathCat": "7-2-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156241"
+  },
+  "nombre": "Hornos",
+  "pathCat": "7-1-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156242"
+  },
+  "nombre": "Placas de cocina",
+  "pathCat": "7-1-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156243"
+  },
+  "nombre": "Vinotecas",
+  "pathCat": "7-1-11",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156244"
+  },
+  "nombre": "Recambios de electrodomésticos",
+  "pathCat": "7-1-12",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156245"
+  },
+  "nombre": "Tostadoras",
+  "pathCat": "7-2-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156246"
+  },
+  "nombre": "Barbacoas",
+  "pathCat": "7-2-14",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156247"
+  },
+  "nombre": "Exprimidores",
+  "pathCat": "7-2-16",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156248"
+  },
+  "nombre": "Básculas de cocina",
+  "pathCat": "7-2-15",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156249"
+  },
+  "nombre": "Aire acondicionado",
+  "pathCat": "7-3-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15624a"
+  },
+  "nombre": "Ventiladores",
+  "pathCat": "7-3-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15624b"
+  },
+  "nombre": "Mandos a distancia",
+  "pathCat": "6-8-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15624c"
+  },
+  "nombre": "Batidoras",
+  "pathCat": "7-2-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15624d"
+  },
+  "nombre": "Robots de cocina",
+  "pathCat": "7-2-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15624e"
+  },
+  "nombre": "Neveras portátiles",
+  "pathCat": "7-2-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15624f"
+  },
+  "nombre": "Freidoras de aire",
+  "pathCat": "7-2-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156250"
+  },
+  "nombre": "Fun cooking",
+  "pathCat": "7-2-10",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156251"
+  },
+  "nombre": "Sandwicheras",
+  "pathCat": "7-2-9",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156252"
+  },
+  "nombre": "Microondas",
+  "pathCat": "7-2-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156253"
+  },
+  "nombre": "Planchas y grills de asar",
+  "pathCat": "7-2-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156254"
+  },
+  "nombre": "Ollas eléctricas",
+  "pathCat": "7-2-11",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156255"
+  },
+  "nombre": "Ventilación y clima",
+  "pathCat": "7-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156256"
+  },
+  "nombre": "Climatizadores evaporativos",
+  "pathCat": "7-3-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156257"
+  },
+  "nombre": "Pequeño electrodoméstico",
+  "pathCat": "7-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156258"
+  },
+  "nombre": "Hervidoras",
+  "pathCat": "7-2-12",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156259"
+  },
+  "nombre": "Cocinas portátiles",
+  "pathCat": "7-2-13",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15625a"
+  },
+  "nombre": "Tratamiento del aire",
+  "pathCat": "7-3-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15625b"
+  },
+  "nombre": "Aspiradoras y limpieza",
+  "pathCat": "7-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15625c"
+  },
+  "nombre": "Robots aspiradores",
+  "pathCat": "7-4-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15625d"
+  },
+  "nombre": "Aspiradoras escoba",
+  "pathCat": "7-4-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15625e"
+  },
+  "nombre": "Aspiradoras",
+  "pathCat": "7-4-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15625f"
+  },
+  "nombre": "Fregonas eléctricas",
+  "pathCat": "7-4-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156260"
+  },
+  "nombre": "Planchado y costura",
+  "pathCat": "7-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156261"
+  },
+  "nombre": "Máquinas de coser",
+  "pathCat": "7-5-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156262"
+  },
+  "nombre": "Planchas y centros de planchado",
+  "pathCat": "7-5-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156263"
+  },
+  "nombre": "Quitapelusas",
+  "pathCat": "7-5-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156264"
+  },
+  "nombre": "Calefacción",
+  "pathCat": "7-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156265"
+  },
+  "nombre": "Radiadores eléctricos",
+  "pathCat": "7-6-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156266"
+  },
+  "nombre": "Vaporetas y limpieza a vapor",
+  "pathCat": "7-4-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156267"
+  },
+  "nombre": "Calentadores y termos",
+  "pathCat": "7-6-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156268"
+  },
+  "nombre": "Calefactores",
+  "pathCat": "7-6-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156269"
+  },
+  "nombre": "Estufas",
+  "pathCat": "7-6-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15626a"
+  },
+  "nombre": "Chimeneas",
+  "pathCat": "7-6-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15626b"
+  },
+  "nombre": "Toalleros eléctricos",
+  "pathCat": "7-6-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15626c"
+  },
+  "nombre": "Mirillas digitales",
+  "pathCat": "8-1-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15626d"
+  },
+  "nombre": "Cámaras de vigilancia",
+  "pathCat": "8-1-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15626e"
+  },
+  "nombre": "Cerraduras inteligentes",
+  "pathCat": "8-1-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15626f"
+  },
+  "nombre": "Alarmas",
+  "pathCat": "8-1-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156270"
+  },
+  "nombre": "Grabadores de videovigilancia",
+  "pathCat": "8-1-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156271"
+  },
+  "nombre": "Seguridad y vigilancia",
+  "pathCat": "8-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156272"
+  },
+  "nombre": "Videoporteros",
+  "pathCat": "8-1-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156273"
+  },
+  "nombre": "Control de accesos",
+  "pathCat": "8-1-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156274"
+  },
+  "nombre": "Domótica y smarthome",
+  "pathCat": "8",
+  "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAFLElEQVR4nLxYR0hlSRQtbWnoRXcbBnPOYSUuFBOCoiOYIyoGRDe6MG1EREdF3IiKAcwJIxhQDCgGTKAooksTKhhhVAxgdub0f87rN++/r++/7/csPvWqblWdf++te2+V4j9yRnt7u7W1tY2NTWdnJx95JSJPtLa2xsXFYRu0IyMjHx4eYmJi3p4iR0JMNgAa+ETjbU7yIsRiw5+TIpED6urqYmNjWWxoThiqr6+XNFeBc5osgG6wJbNndHQUv/7+/vCh110VFJqbmzn19MEaoixFf379+hVs/hRhYGBASenVQyjbQZjIlRDLb7A9SIAK9YlGb2/vu5w+jJA4G2xPs6Hg5+f3LqeP8SEWmy9fvvT19WF7TuHBwcGgoKDn5+dXBv/3J6k1dHBwgPlvs+nq6pLEhoj0BAGIUZ8sPfHS0O3t7dDQ0MTExPT09NbWFrUKJxtFRcXu7u6QkJB31+zp6QkPD395eXnl8Z+e3iF0dHRUWVlZW1t7dnbG7KdmbW5uWlhYMPvb2tqioqLQ+EsEzjXpIfEAsbGxIdFka2trEREROjo6RUVFLDY0zM3NMUq1oRsmm7y8PEkrY4giBH1gCnRD9ZeVlWFBjtRxfn6elZVVU1PDudz379+Z/pGZmXlyclJeXo6/y4cNzYmSxJT7+/uEhASsk5KSQsR9qLq6GmwuLi5YS2hrawcHB4OKh4eH+AZzc3MuLi4sNpKcgVZJbm4uparZ2VlXV9fXUXra6empj4/PysoKaz6OKNzW19eX8AC9GR9CnDKvJltfX/f29j4+PmaOQZP5+flaWlrkE/HLqcfGxhwdHZlsjI2NoUYkbXE2Nzc38EQiNyjs7u4aGRkxu1JTU0tLS1lyCEUoRhFjEI2IUHPwkfnlQ3Rww9GFUycmJjIltre3S0pKoJXr62upNuMDbh+i8khSUhIyn5eXFz12d3dXUFBQXFxM1zGfgN+nDEddRUWFHlhcXAwNDUXmYk348eMHTpwkN9LV1T08PCT8oK+vv7+/z+r8HamZbOAo7u7uLDZ2dnbIaJeXl284NYxrampKeAAXo4qKCvF+jlyGqiogIIDZo66ujriOTELkD47UoSTC09MT9Yno3NLSoqysTD4F3Nl+eHg4MDAQNRRMQKUYFpCWp6amUIr8LQIW+UMEJP+wsDBVVVXysYSI6KoAJYlnjMLCwqqqKlZMZwH+Fx0dzSotZCUkDvgWtCV+LiQBJy49PT0tLY1IA16EEJCSk5MbGxuJ9EBS6u/vx7HgKc+LEC4PyHfMHisrKyRjJycnExMTaEJNTQ0BHcpDXEB6YRkUAqhPDA0NCQ/wIoRSFX+Uqht//vyJ8A2FIc9wCqNMRtaDq8HxqR5kAtTLPLMKXx9CfYISTENDA4dLT0/vXXmcUOTEpqYmqdgQqZx6eXkZNS80RHhjfHzc09OTSIOPf2yQEXJ5jpEFMhHq6OiwtbVVEAG5OTs7GzcWIhsEmuzq6go5bmZmhtWPpIG04+DgQIRCICFnZ+eFhQXOoW/fvuFImpmZEUEQYrLJyUlJbIio+katQoRCCCFmgWZvb4/aEnc6XD3pTjxuEKEQYjJEyPn5eapNvdhRbU1NTTCj2nt7ewYGBkR6CHkWpp92gMfHR7rNDMeC7wVCTGZpaUm3kdeWlpZQ2GdkZODVgerEg4RgpxZiMpx2Nze3NwTi4+MbGhrIpxEi7x371dVVphalgsBIPTIyQj+gMIHAiHJAMBvhhHBdhOFQQ6JSo6nk5OTs7OzIEqaBfwEAAP//LWz4JwAAAAZJREFUAwA37mIwCfBvVQAAAABJRU5ErkJggg=="
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156275"
+  },
+  "nombre": "Sensores de movimiento",
+  "pathCat": "8-2-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156276"
+  },
+  "nombre": "Accesorios para cámaras de vigilancia",
+  "pathCat": "8-1-12",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156277"
+  },
+  "nombre": "Sensores para puertas y ventanas",
+  "pathCat": "8-2-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156278"
+  },
+  "nombre": "Cajas fuertes",
+  "pathCat": "8-1-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156279"
+  },
+  "nombre": "Detectores y sensores",
+  "pathCat": "8-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15627a"
+  },
+  "nombre": "Servicio de alarmas por suscripción",
+  "pathCat": "8-1-11",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15627b"
+  },
+  "nombre": "Vigilabebés",
+  "pathCat": "8-1-10",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15627c"
+  },
+  "nombre": "Barras LED",
+  "pathCat": "8-3-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15627d"
+  },
+  "nombre": "Lámparas",
+  "pathCat": "8-3-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15627e"
+  },
+  "nombre": "Iluminación y ahorro energético",
+  "pathCat": "8-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15627f"
+  },
+  "nombre": "Iluminación de Navidad",
+  "pathCat": "8-3-12",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156280"
+  },
+  "nombre": "Plafones y downlights",
+  "pathCat": "8-3-13",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156281"
+  },
+  "nombre": "Bombillas",
+  "pathCat": "8-3-14",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156282"
+  },
+  "nombre": "Focos",
+  "pathCat": "8-3-15",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156283"
+  },
+  "nombre": "Linternas",
+  "pathCat": "8-3-16",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156284"
+  },
+  "nombre": "Paneles LED",
+  "pathCat": "8-3-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156285"
+  },
+  "nombre": "Timbres",
+  "pathCat": "8-1-9",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156286"
+  },
+  "nombre": "Climatización inteligente",
+  "pathCat": "8-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156287"
+  },
+  "nombre": "Aire acondicionado inteligente",
+  "pathCat": "8-4-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156288"
+  },
+  "nombre": "Ventiladores inteligentes",
+  "pathCat": "8-4-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156289"
+  },
+  "nombre": "Tratamiento del aire inteligente",
+  "pathCat": "8-4-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15628a"
+  },
+  "nombre": "Calefactores inteligentes",
+  "pathCat": "8-4-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15628b"
+  },
+  "nombre": "Termostatos inteligentes",
+  "pathCat": "8-4-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15628c"
+  },
+  "nombre": "Electrodomésticos inteligentes",
+  "pathCat": "8-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15628d"
+  },
+  "nombre": "Radiadores inteligentes",
+  "pathCat": "8-4-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15628e"
+  },
+  "nombre": "Cafeteras inteligentes",
+  "pathCat": "8-5-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15628f"
+  },
+  "nombre": "Frigoríficos inteligentes",
+  "pathCat": "8-5-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156290"
+  },
+  "nombre": "Interruptores inteligentes",
+  "pathCat": "8-3-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156291"
+  },
+  "nombre": "Robots de cocina inteligentes",
+  "pathCat": "8-5-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156292"
+  },
+  "nombre": "Robots aspiradores",
+  "pathCat": "8-5-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156293"
+  },
+  "nombre": "Lavavajillas inteligentes",
+  "pathCat": "8-5-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156294"
+  },
+  "nombre": "Iluminación inteligente",
+  "pathCat": "8-3-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156295"
+  },
+  "nombre": "Hornos inteligentes",
+  "pathCat": "8-5-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156296"
+  },
+  "nombre": "Freidoras inteligentes",
+  "pathCat": "8-5-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156297"
+  },
+  "nombre": "Lavasecadoras inteligentes",
+  "pathCat": "8-5-9",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156298"
+  },
+  "nombre": "Energías renovables",
+  "pathCat": "8-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156299"
+  },
+  "nombre": "Secadoras inteligentes",
+  "pathCat": "8-5-10",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15629a"
+  },
+  "nombre": "Lavadoras inteligentes",
+  "pathCat": "8-5-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15629b"
+  },
+  "nombre": "Electrodomésticos",
+  "pathCat": "9-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15629c"
+  },
+  "nombre": "Aspiradoras y limpieza",
+  "pathCat": "9-1-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15629d"
+  },
+  "nombre": "Enchufes inteligentes",
+  "pathCat": "8-3-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15629e"
+  },
+  "nombre": "Placas solares",
+  "pathCat": "8-6-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15629f"
+  },
+  "nombre": "Tiras LED",
+  "pathCat": "8-3-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562a0"
+  },
+  "nombre": "Relés wifi",
+  "pathCat": "8-3-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562a1"
+  },
+  "nombre": "Hogar",
+  "pathCat": "9",
+  "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACTklEQVR4nOyYzaoBYRiA35mk7PwviK0Ft6GOBYqlHS7Fxi1INkQWCAtuQsodUFIsLJXIeTPONMbMfH/j5JzmWWi+b17fPN7v17hutxt8EjJ8GI4QCUeIhA1C3W43mUymUqlerwfCuECMVqtVrVaVtaNUKp1Op3K5DAIICWltELzAIl6IOPEL6WzscuIcQ41Go1KpGK7yWIm3MAC4kDi2DswNPlJbM5vN8DOfz5/P50e7ktRsNjnyxJwhpafUotvtRpuvO+PxGItKvdJ3GAyMsAnpxg0+HiVQRSna4sQgZG1jlxOtEI2NLU5UQvQ24k7kWcZqozKfz7PZ7OVyeTyJbt7Jb7KBe54Gg4HL9Vh7KfNklSGdDTY9nU4pbVQmk0mxWKTPk0xvgz+X1QbJ5XJMeZLpbbBp4ILJSX63DauTfgy9w0YFx1OhULher49nG42npwy1223dHo6DEbfMRCIxGo1AgH6/j41gU6oN/JwLOp2ONvIpQ36//3g8GrYYj8fX6zXwEg6HD4eD4a1IJLLdbtXiU4YCgQCYsNlsQAAzG7hnQVt8EqrX6/C7eDyeWq2mrSFsHTju1GuRtwD07fyX/2XKrJFMwFvD4RC44OwynBq73c7ii7pZSd9lnELaejPM4v/YGBL9Kw3smbPGeR1DwhEi8deEcAFUr7VrsVoZjUZF4pmF0um0dYDu2M8a/wphpcZzDL483O/3hndjsdhqtfJ6vdzxrxAyFAqFlstlJpPx+Xza+mAwiOfRxWKha501/hVJ5JTzDpxpT+LjhL4BAAD//8sHe5YAAAAGSURBVAMASvKrZh2p1cYAAAAASUVORK5CYII="
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562a2"
+  },
+  "nombre": "Centrales de domótica",
+  "pathCat": "8-3-9",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562a3"
+  },
+  "nombre": "Sensores de temperatura",
+  "pathCat": "8-2-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562a4"
+  },
+  "nombre": "Detectores de fugas de agua",
+  "pathCat": "8-2-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562a5"
+  },
+  "nombre": "Detectores de humo y gas",
+  "pathCat": "8-2-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562a6"
+  },
+  "nombre": "Pequeño electrodoméstico",
+  "pathCat": "9-1-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562a7"
+  },
+  "nombre": "Regletas",
+  "pathCat": "8-3-11",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562a8"
+  },
+  "nombre": "Ventilación y clima",
+  "pathCat": "9-1-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562a9"
+  },
+  "nombre": "Estaciones de energía portátiles",
+  "pathCat": "8-6-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562aa"
+  },
+  "nombre": "Gran electrodoméstico",
+  "pathCat": "9-1-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562ab"
+  },
+  "nombre": "Jardín y bricolaje",
+  "pathCat": "9-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562ac"
+  },
+  "nombre": "Luces solares",
+  "pathCat": "8-3-10",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562ad"
+  },
+  "nombre": "Herramientas eléctricas",
+  "pathCat": "9-2-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562ae"
+  },
+  "nombre": "Belleza y salud",
+  "pathCat": "9-1-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562af"
+  },
+  "nombre": "Piscinas y mantenimiento",
+  "pathCat": "9-2-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562b0"
+  },
+  "nombre": "Barbacoas",
+  "pathCat": "9-2-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562b1"
+  },
+  "nombre": "Accesorios de jardinería",
+  "pathCat": "9-2-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562b2"
+  },
+  "nombre": "Energía y placas solares",
+  "pathCat": "9-2-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562b3"
+  },
+  "nombre": "Motosierras",
+  "pathCat": "9-2-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562b4"
+  },
+  "nombre": "Hidrolimpiadoras",
+  "pathCat": "9-2-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562b5"
+  },
+  "nombre": "Herramienta de mano",
+  "pathCat": "9-2-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562b6"
+  },
+  "nombre": "Cortasetos",
+  "pathCat": "9-2-10",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562b7"
+  },
+  "nombre": "Cortacésped",
+  "pathCat": "9-2-9",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562b8"
+  },
+  "nombre": "Sartenes",
+  "pathCat": "9-3-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562b9"
+  },
+  "nombre": "Purificación de agua",
+  "pathCat": "9-3-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562ba"
+  },
+  "nombre": "Ollas",
+  "pathCat": "9-3-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562bb"
+  },
+  "nombre": "Ollas express",
+  "pathCat": "9-3-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562bc"
+  },
+  "nombre": "Oficina y papelería",
+  "pathCat": "9-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562bd"
+  },
+  "nombre": "Sillas de oficina",
+  "pathCat": "9-4-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562be"
+  },
+  "nombre": "Baterías de cocina",
+  "pathCat": "9-3-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562bf"
+  },
+  "nombre": "Mesas de escritorio",
+  "pathCat": "9-4-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562c0"
+  },
+  "nombre": "Agendas",
+  "pathCat": "9-4-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562c1"
+  },
+  "nombre": "Material de oficina",
+  "pathCat": "9-4-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562c2"
+  },
+  "nombre": "Máquinas de corte",
+  "pathCat": "9-4-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562c3"
+  },
+  "nombre": "Reposamuñecas",
+  "pathCat": "9-4-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562c4"
+  },
+  "nombre": "Calculadoras",
+  "pathCat": "9-4-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562c5"
+  },
+  "nombre": "Reposapiés",
+  "pathCat": "9-4-9",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562c6"
+  },
+  "nombre": "Destructoras de papel",
+  "pathCat": "9-4-10",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562c7"
+  },
+  "nombre": "Plastificadoras",
+  "pathCat": "9-4-11",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562c8"
+  },
+  "nombre": "Mascotas",
+  "pathCat": "9-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562c9"
+  },
+  "nombre": "Areneros",
+  "pathCat": "9-5-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562ca"
+  },
+  "nombre": "Bebederos automáticos",
+  "pathCat": "9-5-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562cb"
+  },
+  "nombre": "Zona marcas",
+  "pathCat": "9-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562cc"
+  },
+  "nombre": "Dreame",
+  "pathCat": "9-6-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562cd"
+  },
+  "nombre": "Archivadores",
+  "pathCat": "9-4-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562ce"
+  },
+  "nombre": "Comederos automáticos",
+  "pathCat": "9-5-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562cf"
+  },
+  "nombre": "Delonghi",
+  "pathCat": "9-6-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562d0"
+  },
+  "nombre": "Cecotec",
+  "pathCat": "9-6-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562d1"
+  },
+  "nombre": "Secadores de pelo",
+  "pathCat": "10-1-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562d2"
+  },
+  "nombre": "Planchas de pelo",
+  "pathCat": "10-1-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562d3"
+  },
+  "nombre": "Cuidados del cabello",
+  "pathCat": "10-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562d4"
+  },
+  "nombre": "Rizadores y tenacillas",
+  "pathCat": "10-1-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562d5"
+  },
+  "nombre": "Moldeadores de pelo",
+  "pathCat": "10-1-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562d6"
+  },
+  "nombre": "Afeitado y depilación",
+  "pathCat": "10-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562d7"
+  },
+  "nombre": "Afeitadoras",
+  "pathCat": "10-2-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562d8"
+  },
+  "nombre": "Depiladoras",
+  "pathCat": "10-2-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562d9"
+  },
+  "nombre": "Cortapelos",
+  "pathCat": "10-2-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562da"
+  },
+  "nombre": "Recambios de afeitadoras",
+  "pathCat": "10-2-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562db"
+  },
+  "nombre": "Cuidado dental",
+  "pathCat": "10-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562dc"
+  },
+  "nombre": "Irrigadores dentales",
+  "pathCat": "10-3-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562dd"
+  },
+  "nombre": "Cepillos de dientes eléctricos",
+  "pathCat": "10-3-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562de"
+  },
+  "nombre": "Recambios cepillos de dientes",
+  "pathCat": "10-3-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562df"
+  },
+  "nombre": "Salud y bienestar",
+  "pathCat": "10-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562e0"
+  },
+  "nombre": "Salud sexual",
+  "pathCat": "10-4-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562e1"
+  },
+  "nombre": "Gafas",
+  "pathCat": "10-4-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562e2"
+  },
+  "nombre": "Básculas",
+  "pathCat": "10-4-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562e3"
+  },
+  "nombre": "Tensiómetros",
+  "pathCat": "10-4-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562e4"
+  },
+  "nombre": "Mantas eléctricas",
+  "pathCat": "10-4-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562e5"
+  },
+  "nombre": "Esterilizadores y productos sanitarios",
+  "pathCat": "10-4-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562e6"
+  },
+  "nombre": "Menaje y accesorios de cocina",
+  "pathCat": "9-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562e7"
+  },
+  "nombre": "Termómetros",
+  "pathCat": "10-4-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562e8"
+  },
+  "nombre": "Masajeadores corporales",
+  "pathCat": "10-5-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562e9"
+  },
+  "nombre": "Espejos",
+  "pathCat": "10-5-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562ea"
+  },
+  "nombre": "Cuidado facial y corporal",
+  "pathCat": "10-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562eb"
+  },
+  "nombre": "Mancuernas y pesas",
+  "pathCat": "10-6-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562ec"
+  },
+  "nombre": "Cepillos y masajeadores faciales",
+  "pathCat": "10-5-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562ed"
+  },
+  "nombre": "Equipamiento deportivo",
+  "pathCat": "10-6-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562ee"
+  },
+  "nombre": "Fitness y entrenamiento",
+  "pathCat": "10-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562ef"
+  },
+  "nombre": "Belleza y salud",
+  "pathCat": "10",
+  "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAEJ0lEQVR4nOxYSSh1YRj+/KEomYcyRBaUqcy/KQvjv0AJURZkyMKCbCQrUpKShQURsaHMGxTKcA2Zp8iSlHmMsLj/0z31/cd37xm49/73Lu6zuL3f+73nnue83/e9z3uOuVKpJMaEX8TIYCIkBRMhKZgz48bGRj8/v5ycHKI11tfXl5eXV1ZWFArF8/Ozt7d3SEhIWlpaQUGByFVm/GN/f3/v4OAAw9bWtrCwsLS0NDg4mMjG9fU1br+0tLS6urq4uCgU5uPj09HRAWbShNra2qqqqvjTra2t1dXVRBg7OzsKFZCP09NTIhtYirq6OiJOyN/f/+TkhD99fHyMFeR7Hh8fOQZIxtra2svLC/kpampqWlpaxAhtbm729vb29/fjrhhGRUUh+XS2rKwMe+Lo6IjIQ2hoaGxsbHh4eFhYmKenJ55hZGSkq6uLH9PT01NUVCRIiGJwcBBX5ubmgsS/UDMzIgrcFbf/rUJcXJzGmOnp6eLi4ouLC27o4eFxdnYmTUgj1AlZW1tHR0dHRkZyJJydnZkApLyhoWFmZgZ2SkpKfX09soW1jomJoTHj4+MZGRnaEurs7ASVoKAgkXiwiY+Pf3t7ox4rKyucPnDCER4YGOCcFRUVOHSaCannQGhWzmNkZWXh6RlnZmbm2NjY7OxsUlIS5wG/jY2N/0EIC8pPDwck6fX19e7uztHRkfPY29tjSAPMiSFgaWlJbebZ9Khl2MVCzsPDQ+rx9fUlQoSUaiACQFHY398nosCZwgLxPRjCyV1OnShX/Bhtjz2KJw58REQEDhTdFhQajz1KEV/IFhYWcK0EocvLy76+PijJlwohVRi9vLxoYUSN1hgzNDSUl5dHhwEBAQcHB/wAltDk5CTUAzUeNv4X9Z5OlZSUoKZ9SzpQr5ESsHRzc8O1+FtoBT+GSQ9LKCEhgWkb9vb2mOoHmYOiQePwC4XXRlzRR6CbYJxfjj1KGUMIz8QQQqv0RwVuuLu7yyk/KH6r/aitrW1qalL3f8nQ09OTi4vL+/s77pqfnw8VxG4lsnF7e0tbRBRfFECRYKHDxO6h5uZmiLZ4lykH5eXl0Du+BxX58/OTLrFcQroClP/m5oaz29vbKysriUq2tra2xAnpRTrm5+cpGxQL9FXyr9ULoe7ubmonJia6urpytmQl0wuhj48Proxx4JdBOdtD94Smpqb4XUd2dja1DZOh4eFhakO/nJyc6NAwGZqYmKA2f72IQTKE9Dw8PHC2hYUF80pugAyNjo5SOzU11cbGhnwTOiY0NzdHbWa9iLwl03Gldnd3py+B4mHn5+cap3TcUycnJ8sJE/r0QXSeIXyRCQwMvLq6EomBeKPNsrOz0zir4wxBU7e3t9PT06Ht6rOoSXhRRKMtxIboT+1/DNNHTymYCEnBREgKRkfoLwAAAP//sCBcaQAAAAZJREFUAwCC4BTBmh3gDQAAAABJRU5ErkJggg=="
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562f0"
+  },
+  "nombre": "Bicicletas estáticas",
+  "pathCat": "10-6-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562f1"
+  },
+  "nombre": "Cintas de correr",
+  "pathCat": "10-6-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562f2"
+  },
+  "nombre": "Manicura y pedicura",
+  "pathCat": "10-5-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562f3"
+  },
+  "nombre": "Auriculares inalámbricos",
+  "pathCat": "11-1-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562f4"
+  },
+  "nombre": "Bicicletas elípticas",
+  "pathCat": "10-6-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562f5"
+  },
+  "nombre": "Auriculares",
+  "pathCat": "11-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562f6"
+  },
+  "nombre": "Pistolas de masaje",
+  "pathCat": "10-6-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562f7"
+  },
+  "nombre": "Sonido",
+  "pathCat": "11",
+  "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAADi0lEQVR4nOxYSyh8URj//BMRQijkkbyKlBULyoLyipQNCzsLLLFBeSSsFMUKJZGFBeW1VFaKPDZIkbfMTFNTM81mZv6/TJ3uPeM6596Z0aj5LW7fd8537/3d757vcU6kx+OhUMI/CjGECYlgkNDLy8vKykpXV1dWVlaEAlAxiKm3tzcyhAhdi/rx8XF2dvbg4ODu7k5oXFRU1Nzc3N/fn56eTtKQJeR0OicmJqanp0knYmJihoaGRkZGJO2lCO3u7vb09OA3kVHk5eUtLy/X1NQILQWEHA5Hd3f3xsYGN47vbmxsbG9vLywsTElJSUtLw+Dn56fZbL65udna2sJvhVO5u3p7excWFsgwIYvFUldXd35+rhzEgsC/6+zsjI2NJW3Y7fa1tbXR0VGwVI7jgdvb2z/cq0kI31ddXX16eqocHB8fHxwchHtIDqA1MzMzOTmpHGxpadnZ2SG9hDo6OjY3N5manJy8t7dXWVlJ+nF0dNTa2mqz2djI8PAwx1JAaHFxsa+vj6nFxcWHh4c5OTlkFEgTtbW1T09PbASLrL6+nmQIvb+/5+fnYzl71czMzJOTE1zJP4BTRUWF1Wr1qvi829vb6OhozuybTA1/Mjbx8fH7+/v+swEKCgqQPpiKHDs3N+drxnsIdsgZbrfbqyJKEasUOCAsxsbGvHJqaipex4UI7yFUBsYGzALLBkAlAQ+vbDKZ1tfXOQMVIYT66uoqU6empijQiIuLw5Jg6tLSEmeg+mVYLk1NTV45ISEBXxAVFUWBBrI5Mjt77+vra0ZGBptVeQgJg8kNDQ3BYAOg1FRVVTH1+PhYOasidHZ2xmSkMgoakKyZfHFxoZyKVCrX19dMRpRS0FBSUsJkFGPSIqQshCwWggE0lky+v78nLUIul4t+hVB2djaTlfWEuChDU8zkYO/XtN4V3gaJ8HcIRfgACQ3JCembpPHx8YGdEG70fZrme7UWtRYQsZeXl0lJSUJLsCkvL8dVaOnXon5+fh4YGJCxhJkMGw66PURfPaTMHg0lE80nSUDFQT4P6c1Sxp4WDnsRwoRECBMS4S/XMjYluZFV7iXka5kRD317SOALHAWRfqgyNQ4AuIbSFyiuV1dXiYmJJAL6gtLSUu7Ayhe5ubkPDw9MVXlofn4eR6dad6KLaGtrw1ZJhg19deXY4uDk74fWoKysjDvk03cs/AsIh70IIUfoPwAAAP//hZ5GkAAAAAZJREFUAwDRzIftGkZK/wAAAABJRU5ErkJggg=="
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562f8"
+  },
+  "nombre": "Auriculares gaming",
+  "pathCat": "11-1-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562f9"
+  },
+  "nombre": "Auriculares con cable",
+  "pathCat": "11-1-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562fa"
+  },
+  "nombre": "Auriculares de diadema",
+  "pathCat": "11-1-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562fb"
+  },
+  "nombre": "Altavoces",
+  "pathCat": "11-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562fc"
+  },
+  "nombre": "Auriculares para oficina",
+  "pathCat": "11-1-9",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562fd"
+  },
+  "nombre": "AirPods",
+  "pathCat": "11-1-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562fe"
+  },
+  "nombre": "Auriculares deportivos",
+  "pathCat": "11-1-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe1562ff"
+  },
+  "nombre": "Torres de sonido",
+  "pathCat": "11-2-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156300"
+  },
+  "nombre": "Altavoces bluetooth",
+  "pathCat": "11-2-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156301"
+  },
+  "nombre": "Auriculares con cancelación de ruido",
+  "pathCat": "11-1-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156302"
+  },
+  "nombre": "Auriculares de botón",
+  "pathCat": "11-1-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156303"
+  },
+  "nombre": "Altavoces portátiles",
+  "pathCat": "11-2-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156304"
+  },
+  "nombre": "Altavoces con micrófono",
+  "pathCat": "11-2-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156305"
+  },
+  "nombre": "Barras de sonido y altavoces TV",
+  "pathCat": "11-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156306"
+  },
+  "nombre": "Home cinema",
+  "pathCat": "11-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156307"
+  },
+  "nombre": "HiFi y reproductores",
+  "pathCat": "11-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156308"
+  },
+  "nombre": "Altavoces inteligentes",
+  "pathCat": "11-2-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156309"
+  },
+  "nombre": "Minicadenas/HiFi",
+  "pathCat": "11-5-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15630a"
+  },
+  "nombre": "Reproductores MP3/MP4",
+  "pathCat": "11-5-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15630b"
+  },
+  "nombre": "Tocadiscos",
+  "pathCat": "11-5-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15630c"
+  },
+  "nombre": "Radios CD y reproductores CD",
+  "pathCat": "11-5-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15630d"
+  },
+  "nombre": "Grabadora con IA",
+  "pathCat": "11-5-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15630e"
+  },
+  "nombre": "Amplificadores",
+  "pathCat": "11-5-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15630f"
+  },
+  "nombre": "Audio profesional y DJ",
+  "pathCat": "11-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156310"
+  },
+  "nombre": "Sonido profesional",
+  "pathCat": "11-6-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156311"
+  },
+  "nombre": "Mesas de Mezclas",
+  "pathCat": "11-6-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156312"
+  },
+  "nombre": "Micrófonos",
+  "pathCat": "11-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156313"
+  },
+  "nombre": "Micrófonos inalámbricos",
+  "pathCat": "11-7-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156314"
+  },
+  "nombre": "Microfonos profesionales",
+  "pathCat": "11-7-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156315"
+  },
+  "nombre": "Automóvil",
+  "pathCat": "11-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156316"
+  },
+  "nombre": "Micrófonos con cable",
+  "pathCat": "11-7-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156317"
+  },
+  "nombre": "Micrófonos de karaoke",
+  "pathCat": "11-7-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156318"
+  },
+  "nombre": "Grabadoras de voz",
+  "pathCat": "11-5-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156319"
+  },
+  "nombre": "Radios para coches",
+  "pathCat": "11-8-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15631a"
+  },
+  "nombre": "Altavoces para coches",
+  "pathCat": "11-8-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15631b"
+  },
+  "nombre": "Smartwatch",
+  "pathCat": "12-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15631c"
+  },
+  "nombre": "Smartwatches infantiles",
+  "pathCat": "12-1-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15631d"
+  },
+  "nombre": "Radios",
+  "pathCat": "11-5-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15631e"
+  },
+  "nombre": "Smartwatch por marca",
+  "pathCat": "12-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15631f"
+  },
+  "nombre": "Smartwatches y wearables",
+  "pathCat": "12",
+  "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAADLUlEQVR4nOyZuUtrQRTGT/SphftWqAiCuCCuhbuFjaAoLp2tjWilhf+KaGNjI9oogoWdqLgQQkgIJISQhOwrZCNFCMk7vMBweTh3zrwkr7o/UM4sZ/LdydyZe7/UFGUIBoObm5udnZ1AALttb29HIhGpj9DhH9AIhUIzMzP4H2To7+83mUzt7e3E/jVA5uzsTFYN4vV6MZHeX2KGent78SsDefr6+nw+H7EzVVAmk2lubi7Fra2tiURCmILdUqlUKU4mky0tLUCA+pV9f3+zeGBggJKi7Pbx8QE0SILi8fjR0RErrq6uUrKWl5dZfHx8HIvFKFliQTabbXZ21uFwsJqDgwMgoOzmdrsXFxdxKGFWjVDN0tKSy+ViNaenp1NTU0AAL+Pw8JAV8ZJWVlaUF/Yjaosab/L5+XmPx8Nqdnd37+/vQYatra2npydWHBwc1Ov1KtuSmqD19fXn52eoNPv7+zc3NyAryGKxTExMQHXAbQk3px+buGvo+voaqsbt7S2viSvo5eUFqsbb2xuviSvIbrez2O/3F8sGDzU2oNVq5X0udw3V1tYWCoVSTD/vVMjn83V1daW4qakpnU6DlCCdTsfiiggijinx+PF/0ASJ0ASJ0ASJ0ASJ0ASJ0ASJ0ASJ4Aqqr69nMXtSKwd8QGNxQ0MDyApqa2tjcTgchrJROicdHR28br94DUNDQ2h+lWI0YqCiDA8P85q4M4Sv4lA1FhYWeE1cQfgKDFVjY2OD16T2Ko2T9PX1BZUGp+fz85PXqnbbX1xc/FWzt7dXlASNWOGwVEHT09N3d3fKGrQ+Tk5OgAzaXI+Pj6zY2Nj48PCAw6qkiD1GdB12dnacTierQZt3cnISRKDtMjc3x4ojIyOoZnR0VD1LvFOPj4+/v7+j3cxqiD7E1dUVi8fGxtClFKoB4tHR09Nzfn7Oiq+vr5QspaNweXmJpiwli2oLow/MbC/cZ9EGFabgislms6U4l8uxF/vKCII//ncgEAB5pIxzidN+bW0N/gm0BumdJWYoGo3iAmcHHBG8G8xms/KoVkdihrq7u41GI+76xJ92urq6cL8wGAx0NchvAAAA///cT0aVAAAABklEQVQDAH1R+UmIN/RoAAAAAElFTkSuQmCC"
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156320"
+  },
+  "nombre": "Apple Watch",
+  "pathCat": "12-2-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156321"
+  },
+  "nombre": "Smartwatch Xiaomi",
+  "pathCat": "12-2-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156322"
+  },
+  "nombre": "Samsung watch",
+  "pathCat": "12-2-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156323"
+  },
+  "nombre": "Smartwatch Garmin",
+  "pathCat": "12-2-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156324"
+  },
+  "nombre": "Smartwatches deportivos y pulsómetros",
+  "pathCat": "12-1-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156325"
+  },
+  "nombre": "Smartwatch Amazfit",
+  "pathCat": "12-2-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156326"
+  },
+  "nombre": "Relojes deportivos y pulsómetros",
+  "pathCat": "12-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156327"
+  },
+  "nombre": "Pulseras de actividad",
+  "pathCat": "12-1-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156328"
+  },
+  "nombre": "Accesorios para smartwatch",
+  "pathCat": "12-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156329"
+  },
+  "nombre": "Correas para smartwatch",
+  "pathCat": "12-4-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15632a"
+  },
+  "nombre": "Cargadores para smartwatch",
+  "pathCat": "12-4-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15632b"
+  },
+  "nombre": "Carcasa smartwatch",
+  "pathCat": "12-4-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15632c"
+  },
+  "nombre": "Protector pantalla smartwatch",
+  "pathCat": "12-4-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15632d"
+  },
+  "nombre": "Pulseras de actividad",
+  "pathCat": "12-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15632e"
+  },
+  "nombre": "Pulsera actividad Garmin",
+  "pathCat": "12-5-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15632f"
+  },
+  "nombre": "Pulsera actividad Huawei",
+  "pathCat": "12-5-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156330"
+  },
+  "nombre": "Anillos inteligentes",
+  "pathCat": "12-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156331"
+  },
+  "nombre": "Gafas inteligentes",
+  "pathCat": "12-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156332"
+  },
+  "nombre": "Pulsera actividad Xiaomi",
+  "pathCat": "12-5-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156333"
+  },
+  "nombre": "Pulsera actividad Polar",
+  "pathCat": "12-5-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156334"
+  },
+  "nombre": "Gafas Ray Ban Meta",
+  "pathCat": "12-7-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156335"
+  },
+  "nombre": "Guía de gafas inteligentes",
+  "pathCat": "12-7-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156336"
+  },
+  "nombre": "Gafas Owlotech (Marca PcComponentes)",
+  "pathCat": "12-7-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156337"
+  },
+  "nombre": "Cámaras de fotos",
+  "pathCat": "13-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156338"
+  },
+  "nombre": "Cámaras mirrorless",
+  "pathCat": "13-1-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156339"
+  },
+  "nombre": "Fotografía",
+  "pathCat": "13",
+  "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAADyElEQVR4nOxYyStFURg/ZmKBkCFjEqVM8R/IkJJko1gglKGUKJakxNaUUIQFNsqUUhY2SoaIpIyZI2VMr+dXt07n3vvucK53X2/xfovXd877zj2/+51vOtfTarUSZ4I7cTK4CGnBRUgLBgldXl6WlZW5KaC2tvb5+ZkYgpuBsH94eEhNTVXfMjY2dnt7OywsjHDCiIWqq6s1DQATVlVVEX5wE5qZmVlaWtKjCbXZ2VnCCT5CLy8vTU1NdAg3sorx8/OTmJhIFRobG7GE8ICPUF1dHd0gODh4eHhYouDt7T09Pe3h4UFfoL6+nvBASuj+/r6oqCgkJMRm+MzPz1PNkZERcJI/MScnp7W1lQ7n5uZsPgpbFBcXPz09SZaLogxsMjIy8Eu0UFpaypKTIyUl5eTkhGghOjp6f38/KCiIzogshDfTwwbrh4aG1HUmJyeJDlxfX7PmlBLa2NggOoDDCg0NVdfJzs5ua2sjOrC2tsYORUeGo6WyZsL8/v7Gqa2urh4cHCDrYCYuLi4tLS0/Px8H6uPjo75caS+DhBYXFxHSMLjNf+Pj4wcHB8GM8BPiToxY3NHRgQBRYgOcn58XFhb29PQQfvBZCJM1NTXj4+NEH+CwfX19tje2i4X6+/tZNr6+vi0tLRcXF0KahmGam5uRG1n9iYkJwgMOC729vaGG41cYJiQkIEDYQiEA6Sc3N/fm5kYYRkZGgijLUn0vDguhUlI2yNFbW1tyNkBycvLm5iZlcHt7i0gkusFBaGVlhcpowcLDw5U0YbzKyko6NIvQ3t4elSsqKtSVy8vLqYxOjegGhw/5+/t/fn4KssVicXdXe5nX11daelFq5E2IHXyIfcTX15e6speXF5V/f3+JbnAQioiIoPLp6am68tHREZWjoqKIGYTS09OpjEZWXXlqaorKmZmZxAxCeXl5VB4bG7u7u1PSROJh8yfKCNENDqd+f39PSkqiPCCvr6/HxMRI1A4PD8GAVjrk0uPjYz8/P+nG/3fqgICAgYEBOoQboS1sb29H6hNmzs7O0AJkZWWxdXd0dFTORgXc7QfaLqV6KUd3d3dnZ6ftje3VfvT29kqaTqX9urq6lNioLTTWoOEu0dDQIL8zCIBjoc011qAZb2E/Pj4WFhaWl5eRcq6urrAWjSJSA4KxpKTE0S3s/2E3HzIbnuwAzRSNYfYNTIWksIgshE6POBwS3xf5EKIGX6IeHx+Jo4CrNK51gYGBdEZkIdxHd3d3CwoK2Mu2SRA+Nuzs7LBsiLFPeqbC9VlYCy5CWnA6Qn8AAAD//9rP8XEAAAAGSURBVAMAAZvb6USCHRIAAAAASUVORK5CYII="
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15633a"
+  },
+  "nombre": "Cámaras digitales compactas",
+  "pathCat": "13-1-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15633b"
+  },
+  "nombre": "Cámaras réflex",
+  "pathCat": "13-1-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15633c"
+  },
+  "nombre": "Cámaras analógicas",
+  "pathCat": "13-1-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15633d"
+  },
+  "nombre": "Objetivos para cámaras",
+  "pathCat": "13-1-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15633e"
+  },
+  "nombre": "Cámaras deportivas",
+  "pathCat": "13-1-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15633f"
+  },
+  "nombre": "Cámaras instantáneas",
+  "pathCat": "13-1-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156340"
+  },
+  "nombre": "Cámaras bridge",
+  "pathCat": "13-1-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156341"
+  },
+  "nombre": "Marcas de cámaras",
+  "pathCat": "13-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156342"
+  },
+  "nombre": "Cámaras Sony",
+  "pathCat": "13-2-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156343"
+  },
+  "nombre": "Cámaras Canon",
+  "pathCat": "13-2-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156344"
+  },
+  "nombre": "Cámaras Kodak",
+  "pathCat": "13-2-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156345"
+  },
+  "nombre": "Cámaras Fujifilm",
+  "pathCat": "13-2-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156346"
+  },
+  "nombre": "Cámaras Polaroid",
+  "pathCat": "13-2-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156347"
+  },
+  "nombre": "Accesorios de fotografía",
+  "pathCat": "13-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156348"
+  },
+  "nombre": "Tarjetas memoria cámara",
+  "pathCat": "13-3-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156349"
+  },
+  "nombre": "Fundas para cámara",
+  "pathCat": "13-3-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15634a"
+  },
+  "nombre": "Filtros para objetivos",
+  "pathCat": "13-3-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15634b"
+  },
+  "nombre": "Trípodes cámara",
+  "pathCat": "13-3-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15634c"
+  },
+  "nombre": "Soportes para cámara",
+  "pathCat": "13-3-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15634d"
+  },
+  "nombre": "Impresoras cámara",
+  "pathCat": "13-3-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15634e"
+  },
+  "nombre": "Papel fotográfico",
+  "pathCat": "13-3-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15634f"
+  },
+  "nombre": "Lectores de tarjeta",
+  "pathCat": "13-3-8",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156350"
+  },
+  "nombre": "Cámaras de vídeo",
+  "pathCat": "13-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156351"
+  },
+  "nombre": "Cámaras deportivas",
+  "pathCat": "13-4-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156352"
+  },
+  "nombre": "Cámara de vídeo DJI",
+  "pathCat": "13-4-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156353"
+  },
+  "nombre": "Cámaras de vídeo",
+  "pathCat": "13-4-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156354"
+  },
+  "nombre": "Cámara de vídeo Insta360",
+  "pathCat": "13-4-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156355"
+  },
+  "nombre": "GoPro",
+  "pathCat": "13-4-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156356"
+  },
+  "nombre": "Drones",
+  "pathCat": "13-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156357"
+  },
+  "nombre": "Drones",
+  "pathCat": "13-5-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156358"
+  },
+  "nombre": "Accesorios para drones",
+  "pathCat": "13-5-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156359"
+  },
+  "nombre": "Movilidad urbana",
+  "pathCat": "14",
+  "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAADtElEQVR4nOxZSyh1URRe90+KCUnIq5iIpMhMYiDPQhKRRxGSmJGBxIQIUR6ZeERRFANR6k4oBsRIKKS8X3kUSsn/Zddu33POPedw3XPv4H6jvdZeZ9/vrL3WPmuv6/b19UXOhH/kZHAR0oJTENrf3+djN3IoHh8f+/r6dnd3l5aWyLGEkN0LCwuDg4MvLy8BAQFc7xhCJycn7e3te3t78imjCX18fIyOjk5PT39+fioaGEpoY2Ojs7Pz6upKoi8uLiaDCT08PHR3d5vNZok+KSmpqanJ39+fa0z2/nRg/bm5uaGhodfXV/ns9va2RGN3Dx0fH8M3+u3tfjCaTCZRjI6OVre3OyEeEr6+vkj18fFxdXsjgtrd3R15VFlZ6eHhoRmydifk4+ODoA4KCmKiZAcdQ0gUNT3kKj+04CKkBRchLbgIacHoinFlZUXdwFBCl5eXqBjVbYwjhCK6sbHx/f1d3cw4QsPDw4eHh5pmGkE9OzuLyvzs7Ixsw9bW1uTkpB5LjZo6Pj6eDby9vcvLy0tLS+nneH5+LigoQJ0vn5LX1HrT/unpaWBgoLCw8BfeamtrU2SjCDVCcuehYq+urr64uCDdQHW2vr7OxYaGBvo1IVR3+PnMzExReXd3V19f//b2RjqAK3NXVxcXY2Njy8rK1B/RdS+7vb3t7+9fXV3lmtzc3JaWFvWncGsuKSkBJyZ6enrOz8/7+fnxuCT9MYQwNH8DA4hYpaOjIycnhxssLi5eX1+TKtBn4WyA1tZWrCOxkceW9BxC8OKWiUYJ1+Tl5dXV1Xl5eeHOu7m5CW8x/fLyckVFBVnB2toa/MHFrKyslJQUDM7Pz0WztLS0hIQEHN/wH9NItwxOPjg4kKweGRk5NTVF38dST08PU4aEhGRkZJAVwBKNHzYODAyEiJ+Ev5Gn9/f3EuOYmJixsTEFQsgIMQZFNDc35+fn4/0QPfRDTExMsAtrb2/vzMyMog02NDs7myQxhPewtiibCg4Oph+iqqqKX5/l3Q8OBCUbWBBSOfT43icnJ5NuxMXF1dTUcJHHnxxHR0dsYBHU6PWhQlB8gLdwEEPI/9PTU9JCaGhoenq6ZJGbmxtFY36ftCCExB4ZGVF8QMz51NRU+hUSExPF1BPBHW+xZUVFRZKbLwOUmCKbUVtbKzbLOOBLfBIUCCEzsSNhYWGiMjw8HNmBxgXZDBxmOOSwoKiMiorCtlg9hxh2dnZQweBbhmMegUl/DSyOZjl99xgjIiLEKZOz/T31HwAA///UTIDgAAAABklEQVQDAFVVh78P2tg0AAAAAElFTkSuQmCC"
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15635a"
+  },
+  "nombre": "Accesorios para automóvil",
+  "pathCat": "14-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15635b"
+  },
+  "nombre": "Patinetes eléctricos",
+  "pathCat": "14-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15635c"
+  },
+  "nombre": "Accesorios para patinetes",
+  "pathCat": "14-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15635d"
+  },
+  "nombre": "Cascos para patinetes",
+  "pathCat": "14-4-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15635e"
+  },
+  "nombre": "Balizas V16 homologadas",
+  "pathCat": "14-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15635f"
+  },
+  "nombre": "Ruedas para patinetes",
+  "pathCat": "14-4-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156360"
+  },
+  "nombre": "Candados para patinetes",
+  "pathCat": "14-4-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156361"
+  },
+  "nombre": "Frenos para patinetes",
+  "pathCat": "14-4-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156362"
+  },
+  "nombre": "Cargadores para patinetes",
+  "pathCat": "14-4-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156363"
+  },
+  "nombre": "Bicicletas eléctricas",
+  "pathCat": "14-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156364"
+  },
+  "nombre": "Bicicleta de montaña",
+  "pathCat": "14-5-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156365"
+  },
+  "nombre": "Bicicletas plegables",
+  "pathCat": "14-5-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156366"
+  },
+  "nombre": "Bicicleta de paseo",
+  "pathCat": "14-5-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156367"
+  },
+  "nombre": "Accesorios para bicicletas",
+  "pathCat": "14-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156368"
+  },
+  "nombre": "Luces para bicicletas",
+  "pathCat": "14-6-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156369"
+  },
+  "nombre": "Cascos para bicicletas",
+  "pathCat": "14-6-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15636a"
+  },
+  "nombre": "Cargadores para bicicletas",
+  "pathCat": "14-6-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15636b"
+  },
+  "nombre": "GPS",
+  "pathCat": "14-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15636c"
+  },
+  "nombre": "GPS para coche",
+  "pathCat": "14-7-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15636d"
+  },
+  "nombre": "Radiocontrol",
+  "pathCat": "15-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15636e"
+  },
+  "nombre": "Gadgets",
+  "pathCat": "15-2-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15636f"
+  },
+  "nombre": "Telescopios",
+  "pathCat": "15-2-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156370"
+  },
+  "nombre": "Gadgets tecnológicos",
+  "pathCat": "15-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156371"
+  },
+  "nombre": "Prismáticos",
+  "pathCat": "15-2-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156372"
+  },
+  "nombre": "Juegos y juguetes",
+  "pathCat": "15-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156373"
+  },
+  "nombre": "Juegos de mesa",
+  "pathCat": "15-3-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156374"
+  },
+  "nombre": "Juguetes LEGO®",
+  "pathCat": "15-3-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156375"
+  },
+  "nombre": "Juguetes y juegos",
+  "pathCat": "15",
+  "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAEr0lEQVR4nOxZWShuXRhejiHj7zcVmUIZblycKzeKSOa4MISEC+HCdCGUXCjDDWUmmcmQuECGSBRS504ipYwZUoYMyXCevn1aZ9m+b+9l79PJxXmu1nr3et/97Get911rfZ/B29sb+Ur4Rr4Y/hGSwx8gtLm5GR8fn5mZeXh4SFRDT/2idnZ2Pjo6QsPFxWV/f5+og1qFGhoaBDbAwcFBY2MjUQdVCj09Pbm6up6enlKLvb09RDIyMiJKoUqhlpYWlg2AbltbG1EB5Qo9Pj66ubmJCBHVIilXqLW1lbL5XwOhDWN7eztRCoUKQR4nJ6fLy0uhW1FR8fr6Wl5eLnTViKRQoebmZsrG0tKyoKCgsLAQDcECkaAfUQQlhCBPZWUl7RYXF5uZmZmbmxcVFVFjVVUVcpB8HkoINTU1UXlsbGzy8/OFdm5uLrpCGyIhB8nn8WlCkAdfT7slJSXGxsZCWyRSdXW1ApHeLeqxsbGUlBS8ktPZzs4O1ZkSAh4eHlAqLy4uOCPAd3h4ODo6mlreKQTx+dkAZWVlLBvAxMSktLSUcAOvozMu4J1Cpqam+ETCB0dHR7qLid7h4eFxcnJC+ACZz8/PafedQkhmwgewGRgY0PoImvX39zs4OBA+1NXVsV1xYezt7U1LS6NGAwODiYmJiIgI8icwPj6Ok9Pz8/Ovd+vpdXd3p6amShEChoaGkpKSWE4jIyOxsbFENZu4uLiXlxehq6+vDyETExNFw7SkPQYNDg7CQejigxAI4YgK4CNFbEZHRz+yIbrqEIbCAdoIXQRCOAQlStlAcsoGYRFcl+RSm+vU1FRMTAw75VBO62dJQLQoDQ0NIbbEopSq1HDDikYIoYug+FC8gKhgg4+UThH548fMzExYWBhrwRQkJCQQOaAuoO6zlvn5+eDgYGkvrvPQwsICG8jW1pZnc8CR7fr6WmijOE1PTwcGBsp6cW2uQUFBPT09tHt/f8/jxe6sHR0dPGwI/27PXgIDAgJ4XNhh2IMJH3gJzc7O0nZ4eDiPCzuMdZcG1xq6u7vDgqD5jz0Ve5ms1/HxMc7dQhu15+rqCgdLWS8uhZAdlI2Pj4+IzeTk5H8aIKVZO4Z5eXkJbbgvLi4SDnAR0jVft7e36enpUVFRtxpERkZmZGSgQQew9YJz1rgIQYOPhJaWlry9vbFdsyO7urpgxCPRYH5C8mtod3fX09NTaOMEd3NzgyMYLj3St8GsrKza2lpsolZWVrRMIFXpqtIFeYXm5uZoOzQ0dGVlBRqI2HzXgLXgXobVtrGxwVZU0SJTSIiVGr9Nob6JTq64XfzQAA3Wjsurv7//9va21lC6IDNlyA4kPNJe61M/Pz9sWO7u7tSyt7eXnJy8vr6udTzSHslPTzVaIaMQJkgrGwsLCxzAV1dXWTYAujDiJokBH70Qam1tjUhChpBWkUNCQra2trKzs3FC+vgUxpycHAzAMM6AnyC0vLzMdnFT7uvrQ1DZZMEADOvs7LS2tmbtsuVRhhD7kwpOsTs7O6IjjjRQNrGo4fj7fd9k3iizqJFWeXl5Z2dnNTU1ai5DKK349QgLq76+3tfXlygm9Pfx768FOXw5Qj8BAAD//5J9XroAAAAGSURBVAMA5wNYOKXsw3QAAAAASUVORK5CYII="
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156376"
+  },
+  "nombre": "Juguetes educativos",
+  "pathCat": "15-3-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156377"
+  },
+  "nombre": "GPS para senderismo",
+  "pathCat": "14-7-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156378"
+  },
+  "nombre": "Juegos de robótica",
+  "pathCat": "15-3-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156379"
+  },
+  "nombre": "GPS para caravanas",
+  "pathCat": "14-7-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15637a"
+  },
+  "nombre": "Vehículos eléctricos y radiocontrol",
+  "pathCat": "15-3-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15637b"
+  },
+  "nombre": "Juguetes de imitación",
+  "pathCat": "15-3-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15637c"
+  },
+  "nombre": "Merchandising videojuegos",
+  "pathCat": "15-4-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15637d"
+  },
+  "nombre": "Figuras y merchandising",
+  "pathCat": "15-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15637e"
+  },
+  "nombre": "Funko",
+  "pathCat": "15-4-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15637f"
+  },
+  "nombre": "Merchandising peliculas",
+  "pathCat": "15-4-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156380"
+  },
+  "nombre": "Merchandising series",
+  "pathCat": "15-4-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156381"
+  },
+  "nombre": "Juegos de construcción",
+  "pathCat": "15-3-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156382"
+  },
+  "nombre": "Elige tu Reacondicionado",
+  "pathCat": "16-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156383"
+  },
+  "nombre": "Portátiles Reacondicionados",
+  "pathCat": "16-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156384"
+  },
+  "nombre": "MacBook Reacondicionados",
+  "pathCat": "16-2-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156385"
+  },
+  "nombre": "Portátiles HP Reacondicionados",
+  "pathCat": "16-2-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156386"
+  },
+  "nombre": "Portátiles ASUS Reacondicionados",
+  "pathCat": "16-2-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156387"
+  },
+  "nombre": "Productos Reacondicionados",
+  "pathCat": "16",
+  "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAEoklEQVR4nOxZWSh1axj+Ni7M4zFLMksZMiSEnEgIZbxCXCilKFMyljJkSnJBKRfIhYwpGcpwYcpQhpAMmQmRMXKe/n36Dmst29rr/P+/XfzPxe77vvWutZ797nfeCm9vb+Q7QY58M/wh9BUUiFAsLCysr6/v7u7u7Ozs7+8/Pz8rKCi4u7v//QNEKERSGfXNzU1PT8/AwMDo6Ojl5aUEyYCAgMDAwLi4OBMTE/J/COE1+MYuLi4Mufv7+8bGxrKyMsk82CgqKsrOzlZWVuYpz7QhaN7f339+fv79YWtrq5mZWVZWlrRsgJKSEkNDw9LSUp7yTA2dnJzgfg0NjZGREVdXV5xkZGTU1dWx73RycgoJCYHwXz9wfX19cXFxfn6OG8fHx9nyYWFh7e3tKioqRAAhLDQ1Nbu7u8vLy4eGht4LKCoqgmJiYqK1tfVnDz0+Psa7q6qq8LT35zD5wcFBHR0dwp8QnmVkZMQpKicnFx8fD4r6+vqEB+7u7ioqKqqrq2F/9NDBwWF6elpJSYnwJEQ1xEZ/f39oaCiREltbW9HR0cvLy/QkPDwcrvqZPK/ACCXPzs4KYANYWVktLS0lJyfTk97eXk6j5CbEGZZEIhF/v+VEc3MzwhLdwmHX1tYIH0J4N1sI7uPt7b24uEiEAo/t7Ow0NTUVb19eXpKSkggfQp8BXs2OT1IBbtvW1ka3MzMzw8PDRDAhygk+QoQCag4ODqbbmpoatowUbi+GqqoqIpOnpycRBLgbIuq/7xaJDg4OGK9jagg+/yYRt7e3gtkAjo6OPj4+4jWe1tfXxxCQQT0UFRVF1xMTE4yrMiAUGRlJ12zPla4e+lnQ1ta+urrCQl5e/unpCZ/0kmxKWFq1vb6+Hh4evr8kY0LA0dHR+0v//WRIznBp8VpXV/fs7IzIAh9siOYNLKBMzjTyq/HhJ6OFB1gyNPnb8IGQjY0NXaPFIbLAB0IoMem6q6uLyAIfCAUFBdH1tyCELKOmpiZeo3/o6OggQoHoYmFhIZIINBFfEELEjI2NpduCggIiFMbGxlNTU5aWlhJkOL2YGRhzc3Ppent7G90qEQr47OTkpK2trVR3MQlBz+np6XSbmZk5NzdHhMLAwAD53N7env8tHKmjsLBQXV1dvH54eECNhzKKCAWCPvTEyYkzr3MQ0tLSQpNAt6jwvby8Njc3iVAgKfEX5k6uMTExqampdIvxj5ub29jYGJEeqFkxI1hdXWVf4mXUFPX19b6+vnSLyRAaq5SUFIQDwg9QTF5enoeHx+npKacA359MDIQADAYwd6InSLdNTU2Yy8DIMDgjnwP9OCYNkMQ86fHxkZ7b2dmhA8aneMupoa8rxpycnMrKSva5s7Mzmmv4ERptOo5B0YJuC1bMlkcaQK8Id4GMn58fciUCY0REhNSEAHh+QkKC4HSLCQ6+VXFxMT0BJ9gD9CeQkBgtLS21tbUrKytEGqSlpeXn5+vp6THOwQnpBWomggmJgUDX0NAA85LgzBj/oMeF/WEQI7ntZEN414GeemNjY29vD0NSVHPQgbm5OQwZkzXELSIUsmmDJODPXwtf4dsR+gcAAP//v4G6wwAAAAZJREFUAwDP+S70k47iSAAAAABJRU5ErkJggg=="
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156388"
+  },
+  "nombre": "Portátiles MSI Reacondicionados",
+  "pathCat": "16-2-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156389"
+  },
+  "nombre": "Portátiles Alurin Reacondicionados",
+  "pathCat": "16-2-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15638a"
+  },
+  "nombre": "Móviles Reacondicionados",
+  "pathCat": "16-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15638b"
+  },
+  "nombre": "iPhone Reacondicionados",
+  "pathCat": "16-3-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15638c"
+  },
+  "nombre": "Samsung Galaxy Reacondicionados",
+  "pathCat": "16-3-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15638d"
+  },
+  "nombre": "Xiaomi Reacondicionados",
+  "pathCat": "16-3-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15638e"
+  },
+  "nombre": "PC Gaming Reacondicionados",
+  "pathCat": "16-4-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15638f"
+  },
+  "nombre": "Sobremesas Reacondicionados",
+  "pathCat": "16-4",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156390"
+  },
+  "nombre": "Mini PCs Reacondicionados",
+  "pathCat": "16-4-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156391"
+  },
+  "nombre": "All in One Reacondicionados",
+  "pathCat": "16-4-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156392"
+  },
+  "nombre": "Tarjetas Gráficas Reacondicionadas",
+  "pathCat": "16-5",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156393"
+  },
+  "nombre": "Gráficas NVIDIA Reacondicionadas",
+  "pathCat": "16-5-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156394"
+  },
+  "nombre": "Gráficas AMD Reacondicionadas",
+  "pathCat": "16-5-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156395"
+  },
+  "nombre": "Monitores Reacondicionados",
+  "pathCat": "16-6",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156396"
+  },
+  "nombre": "Monitores Gaming Reacondicionados",
+  "pathCat": "16-6-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156397"
+  },
+  "nombre": "Televisores Reacondicionados",
+  "pathCat": "16-7",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156398"
+  },
+  "nombre": "TV Samsung Reacondicionados",
+  "pathCat": "16-7-1",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe156399"
+  },
+  "nombre": "Monitores 4K Reacondicionados",
+  "pathCat": "16-6-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15639a"
+  },
+  "nombre": "Monitores Trabajo Reacondicionados",
+  "pathCat": "16-6-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15639b"
+  },
+  "nombre": "TV LG Reacondicionados",
+  "pathCat": "16-7-2",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15639c"
+  },
+  "nombre": "TV Nilait Reacondicionados",
+  "pathCat": "16-7-3",
+  "icon": ""
+},
+{
+  "_id": {
+    "$oid": "6abf79ebc8ef029afe15639d"
+  },
+  "nombre": "TV Philips Reacondicionados",
+  "pathCat": "16-7-4",
+  "icon": ""
+}]
