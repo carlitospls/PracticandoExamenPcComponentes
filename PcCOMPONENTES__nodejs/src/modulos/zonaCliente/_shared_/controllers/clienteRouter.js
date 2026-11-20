@@ -18,6 +18,11 @@ module.exports = function createRouterCliente(dbService, config) {
   router.get("/LoginGoogle", authController.loginGoogle());
   router.get("/LoginGoogleCallback", authController.loginGoogleCallback());
   router.post("/Direcciones", direccionesController.operarDireccion());
+  router.post(
+    "/Direcciones",
+    authController.verificarToken(),
+    direccionesController.operarDireccion(),
+  );
 
   return router;
 };

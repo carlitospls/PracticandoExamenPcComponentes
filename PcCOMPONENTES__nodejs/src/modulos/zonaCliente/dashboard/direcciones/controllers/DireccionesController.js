@@ -10,7 +10,7 @@ class DireccionesController {
     return async (req, res) => {
       const { operacion, direccion } = req.body;
       const direccionLimpia = new Direccion(direccion);
-      const idCliente = "6aca83402bf2cd4c6e9e1669"; //Temporal, se sustituirá por el token
+      const idCliente = req.idCliente;
       if (operacion === "alta") {
         await this.dbService.updateOne(
           "clientes",
