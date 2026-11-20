@@ -217,7 +217,7 @@ class AuthController {
     return (req, res, next) => {
       const cabecera = req.headers.authorization || ""; // "Bearer eyJhbGci..."
       const token = cabecera.split(" ")[1]; // parte el texto por el espacio y coge lo de detrás
-      const payload = toke ? this.jwtTokenService.verifyToken(token) : null;
+      const payload = token ? this.jwtTokenService.verifyToken(token) : null;
 
       if (!payload) {
         // no hay token, o es falso o caducado
