@@ -25,6 +25,19 @@ class DireccionesController {
             $pull: { direcciones: { _id: direccionLimpia._id } },
           },
         );
+      } else if (operacion === "modificar") {
+        await this.dbService.updateOne(
+          "clientes",
+          {
+            _id: new ObjectId(idCliente),
+            "direcciones._id": direccionLimpia._id,
+          },
+          {
+            $set: {
+              "direcciones.$": direccionLimpia.toPrimitives(),
+            },
+          },
+        );
       }
 
       console.log("[DIRECCIONES] me ha llegado:", operacion, direccionLimpia);
