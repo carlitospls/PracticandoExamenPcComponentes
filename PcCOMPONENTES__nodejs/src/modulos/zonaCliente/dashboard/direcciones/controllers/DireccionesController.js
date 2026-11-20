@@ -17,6 +17,14 @@ class DireccionesController {
           { _id: new ObjectId(idCliente) },
           { $push: { direcciones: direccionLimpia.toPrimitives() } },
         );
+      } else if (operacion === "eliminar") {
+        await this.dbService.updateOne(
+          "clientes",
+          { _id: new ObjectId(idCliente) },
+          {
+            $pull: { direcciones: { _id: direccionLimpia._id } },
+          },
+        );
       }
 
       console.log("[DIRECCIONES] me ha llegado:", operacion, direccionLimpia);
